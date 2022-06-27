@@ -1,0 +1,14 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\bin\Debug\netcoreapp3.1\1_HelloCSharp.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\bin\Debug\netcoreapp3.1\1_HelloCSharp.deps.json
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\bin\Debug\netcoreapp3.1\1_HelloCSharp.runtimeconfig.json
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\bin\Debug\netcoreapp3.1\1_HelloCSharp.runtimeconfig.dev.json
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\bin\Debug\netcoreapp3.1\1_HelloCSharp.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\bin\Debug\netcoreapp3.1\1_HelloCSharp.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.AssemblyInfoInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.AssemblyInfo.cs
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.genruntimeconfig.cache
