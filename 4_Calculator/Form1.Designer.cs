@@ -142,8 +142,9 @@
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(81, 74);
             this.button11.TabIndex = 6;
-            this.button11.Text = "button7";
+            this.button11.Text = "0";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
             // 
             // button12
             // 
