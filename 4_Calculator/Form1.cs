@@ -77,10 +77,6 @@ namespace _4_Calculator
             else if (optButton.Text == "*")
                 op = Operator.Multi;
           
-
-            
-          
-
             lbl_result.Text = result.ToString();
             isNewNumber = true;
            

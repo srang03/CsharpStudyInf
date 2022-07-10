@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\bin\Debug\4_CalculationReview.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\bin\Debug\4_CalculationReview.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\bin\Debug\4_CalculationReview.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\obj\Debug\4_CalculationReview.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\obj\Debug\_4_CalculationReview.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\obj\Debug\_4_CalculationReview.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\obj\Debug\4_CalculationReview.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\obj\Debug\4_CalculationReview.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\obj\Debug\4_CalculationReview.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\4_CalculationReview\obj\Debug\4_CalculationReview.pdb
