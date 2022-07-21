@@ -1,13 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1927
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_HelloCSharp", "1_HelloCSharp.csproj", "{0F1797BA-3DF9-4E34-BB40-05C926F8CBFE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Calculator", "..\4_Calculator\4_Calculator.csproj", "{ED8C9F39-89A5-428B-A3F2-20A75AF092D3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_CalculationReview", "..\4_CalculationReview\4_CalculationReview.csproj", "{530BB4AA-939A-456F-B5C6-B6B81E25CC64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori01_String", "..\Dori01_String\Dori01_String.csproj", "{ED251BC3-9CC1-43DE-BF65-CB1F45907A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori02_DataTypeAndOverflow", "..\Dori02_DataTypeAndOverflow\Dori02_DataTypeAndOverflow.csproj", "{93ABE696-3EF5-44DB-AA89-1C8C2A842A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori03_ProgramAndMethod", "..\Dori03_ProgramAndMethod\Dori03_ProgramAndMethod.csproj", "{5ABE505D-9E44-48A4-A686-45A693F0969D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori05_Enum", "..\Dori05_Enum\Dori05_Enum.csproj", "{795427CD-1754-4126-8145-DCB8E80962D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{530BB4AA-939A-456F-B5C6-B6B81E25CC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{530BB4AA-939A-456F-B5C6-B6B81E25CC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{530BB4AA-939A-456F-B5C6-B6B81E25CC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED251BC3-9CC1-43DE-BF65-CB1F45907A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED251BC3-9CC1-43DE-BF65-CB1F45907A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED251BC3-9CC1-43DE-BF65-CB1F45907A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED251BC3-9CC1-43DE-BF65-CB1F45907A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93ABE696-3EF5-44DB-AA89-1C8C2A842A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93ABE696-3EF5-44DB-AA89-1C8C2A842A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93ABE696-3EF5-44DB-AA89-1C8C2A842A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93ABE696-3EF5-44DB-AA89-1C8C2A842A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABE505D-9E44-48A4-A686-45A693F0969D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABE505D-9E44-48A4-A686-45A693F0969D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABE505D-9E44-48A4-A686-45A693F0969D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABE505D-9E44-48A4-A686-45A693F0969D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795427CD-1754-4126-8145-DCB8E80962D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795427CD-1754-4126-8145-DCB8E80962D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795427CD-1754-4126-8145-DCB8E80962D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795427CD-1754-4126-8145-DCB8E80962D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

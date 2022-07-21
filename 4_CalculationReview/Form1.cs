@@ -105,5 +105,10 @@ namespace _4_CalculationReview
             result = 0;
             Operators = op.Add;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
