@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\bin\Debug\Dori07_Array.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\bin\Debug\Dori07_Array.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\bin\Debug\Dori07_Array.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\obj\Debug\Dori07_Array.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\obj\Debug\Dori07_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\obj\Debug\Dori07_Array.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\obj\Debug\Dori07_Array.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\obj\Debug\Dori07_Array.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\obj\Debug\Dori07_Array.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\obj\Debug\Dori07_Array.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori07_Array\obj\Debug\Dori07_Array.pdb

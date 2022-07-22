@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\bin\Debug\Dori09_For.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\bin\Debug\Dori09_For.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\bin\Debug\Dori09_For.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\obj\Debug\Dori09_For.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\obj\Debug\Dori09_For.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\obj\Debug\Dori09_For.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\obj\Debug\Dori09_For.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\obj\Debug\Dori09_For.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\obj\Debug\Dori09_For.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\obj\Debug\Dori09_For.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori09_For\obj\Debug\Dori09_For.pdb

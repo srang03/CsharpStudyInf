@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\bin\Debug\Dori08_Conditional.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\bin\Debug\Dori08_Conditional.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\bin\Debug\Dori08_Conditional.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.pdb
