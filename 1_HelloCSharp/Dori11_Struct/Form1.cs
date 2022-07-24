@@ -53,7 +53,7 @@ namespace Dori11_Struct
 
         private void pbx_sun_Click(object sender, EventArgs e)
         {
-      
+
             var number = _random.Next(1, 21);
             if (this.rbtn_player1.Checked)
             {
@@ -63,7 +63,7 @@ namespace Dori11_Struct
             {
                 _p2.iSun = number;
             }
-            ShowResult();         
+            ShowResult();
         }
 
         private void pbx_moon_Click(object sender, EventArgs e)
@@ -92,21 +92,20 @@ namespace Dori11_Struct
             {
                 _p2.iStar = number;
             }
-            ShowResult();     
+            ShowResult();
         }
 
         private void pbx_none_Click(object sender, EventArgs e)
         {
             ShowResult();
-
         }
 
         private void iCheckedChange()
         {
-            
+
             if (this.rbtn_player1.Checked)
             {
-                
+
                 this.rbtn_player1.Checked = false;
                 this.rbtn_player2.Checked = true;
             }
@@ -134,15 +133,20 @@ namespace Dori11_Struct
                 this.lbx_result2.Items.Add(strResult);
             }
 
+            if(_p1.iCount == _p2.iCount)
+            {
+                this.listBox1.Items.Add(PlayerPair(_p2.iCount, _p1.iCardSum, _p2.iCardSum));
+            }
+
             iCheckedChange();
 
-            if(IsDone(_p1.iCount) && IsDone(_p2.iCount))
+            if (IsDone(_p1.iCount) && IsDone(_p2.iCount))
             {
-                if(_p1.iCardSum > _p2.iCardSum)
+                if (_p1.iCardSum > _p2.iCardSum)
                 {
                     MessageBox.Show("Player1이 승리하였습니다");
                 }
-                else if(_p1.iCardSum < _p2.iCardSum)
+                else if (_p1.iCardSum < _p2.iCardSum)
                 {
                     MessageBox.Show("Player2이 승리하였습니다");
                 }
@@ -150,7 +154,27 @@ namespace Dori11_Struct
                 {
                     MessageBox.Show("비겼습니다.");
                 }
-                
+
+                this.pbx_moon.Enabled = false;
+                this.pbx_star.Enabled = false;
+                this.pbx_sun.Enabled = false;
+                this.pbx_none.Enabled = false;
+            }
+        }
+        public string PlayerPair(int iCount, int p1_iCardSum, int p2_iCardSum)
+        {
+            int iCheck = p1_iCardSum - p2_iCardSum;
+            if (iCheck > 0)
+            {
+                return $"{iCount}회차 Player1이 Player2보다 {iCheck}만큼 큽니다.";
+            }
+            else if (iCheck < 0)
+            {
+                return $"{iCount}회차 Player2이 Player1보다 {Math.Abs(iCheck)}만큼 큽니다.";
+            }
+            else
+            {
+                return $"{iCount}회차 Player2이 Player1가 동일합니다.";
             }
         }
     }

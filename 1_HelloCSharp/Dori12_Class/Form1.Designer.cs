@@ -28,13 +28,162 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.lbx_result2 = new System.Windows.Forms.ListBox();
+            this.lbx_result1 = new System.Windows.Forms.ListBox();
+            this.rbtn_player2 = new System.Windows.Forms.RadioButton();
+            this.rbtn_player1 = new System.Windows.Forms.RadioButton();
+            this.pbx_none = new System.Windows.Forms.PictureBox();
+            this.pbx_star = new System.Windows.Forms.PictureBox();
+            this.pbx_moon = new System.Windows.Forms.PictureBox();
+            this.pbx_sun = new System.Windows.Forms.PictureBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_none)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_star)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_moon)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_sun)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // lbx_result2
+            // 
+            this.lbx_result2.FormattingEnabled = true;
+            this.lbx_result2.ItemHeight = 12;
+            this.lbx_result2.Location = new System.Drawing.Point(336, 315);
+            this.lbx_result2.Name = "lbx_result2";
+            this.lbx_result2.Size = new System.Drawing.Size(318, 124);
+            this.lbx_result2.TabIndex = 12;
+            // 
+            // lbx_result1
+            // 
+            this.lbx_result1.FormattingEnabled = true;
+            this.lbx_result1.ItemHeight = 12;
+            this.lbx_result1.Location = new System.Drawing.Point(12, 315);
+            this.lbx_result1.Name = "lbx_result1";
+            this.lbx_result1.Size = new System.Drawing.Size(318, 124);
+            this.lbx_result1.TabIndex = 13;
+            // 
+            // rbtn_player2
+            // 
+            this.rbtn_player2.AutoSize = true;
+            this.rbtn_player2.Location = new System.Drawing.Point(336, 274);
+            this.rbtn_player2.Name = "rbtn_player2";
+            this.rbtn_player2.Size = new System.Drawing.Size(65, 16);
+            this.rbtn_player2.TabIndex = 10;
+            this.rbtn_player2.Text = "Player2";
+            this.rbtn_player2.UseVisualStyleBackColor = true;
+            // 
+            // rbtn_player1
+            // 
+            this.rbtn_player1.AutoSize = true;
+            this.rbtn_player1.Checked = true;
+            this.rbtn_player1.Location = new System.Drawing.Point(12, 274);
+            this.rbtn_player1.Name = "rbtn_player1";
+            this.rbtn_player1.Size = new System.Drawing.Size(65, 16);
+            this.rbtn_player1.TabIndex = 11;
+            this.rbtn_player1.TabStop = true;
+            this.rbtn_player1.Text = "Player1";
+            this.rbtn_player1.UseVisualStyleBackColor = true;
+            // 
+            // pbx_none
+            // 
+            this.pbx_none.BackColor = System.Drawing.Color.DarkGray;
+            this.pbx_none.Location = new System.Drawing.Point(498, 67);
+            this.pbx_none.Name = "pbx_none";
+            this.pbx_none.Size = new System.Drawing.Size(156, 181);
+            this.pbx_none.TabIndex = 6;
+            this.pbx_none.TabStop = false;
+            this.pbx_none.Click += new System.EventHandler(this.pbx_none_Click);
+            // 
+            // pbx_star
+            // 
+            this.pbx_star.Image = ((System.Drawing.Image)(resources.GetObject("pbx_star.Image")));
+            this.pbx_star.Location = new System.Drawing.Point(336, 67);
+            this.pbx_star.Name = "pbx_star";
+            this.pbx_star.Size = new System.Drawing.Size(156, 181);
+            this.pbx_star.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbx_star.TabIndex = 7;
+            this.pbx_star.TabStop = false;
+            this.pbx_star.Click += new System.EventHandler(this.pbx_star_Click);
+            // 
+            // pbx_moon
+            // 
+            this.pbx_moon.Image = ((System.Drawing.Image)(resources.GetObject("pbx_moon.Image")));
+            this.pbx_moon.Location = new System.Drawing.Point(174, 67);
+            this.pbx_moon.Name = "pbx_moon";
+            this.pbx_moon.Size = new System.Drawing.Size(156, 181);
+            this.pbx_moon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbx_moon.TabIndex = 8;
+            this.pbx_moon.TabStop = false;
+            this.pbx_moon.Click += new System.EventHandler(this.pbx_moon_Click);
+            // 
+            // pbx_sun
+            // 
+            this.pbx_sun.Image = ((System.Drawing.Image)(resources.GetObject("pbx_sun.Image")));
+            this.pbx_sun.Location = new System.Drawing.Point(12, 67);
+            this.pbx_sun.Name = "pbx_sun";
+            this.pbx_sun.Size = new System.Drawing.Size(156, 181);
+            this.pbx_sun.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbx_sun.TabIndex = 9;
+            this.pbx_sun.TabStop = false;
+            this.pbx_sun.Click += new System.EventHandler(this.pbx_sun_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(10, 31);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(371, 12);
+            this.label2.TabIndex = 4;
+            this.label2.Text = "각 5회 진행 후 해, 달, 별의 숫자의 합이 가장 높은 사람이 승리한다.";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(10, 6);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(269, 12);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "Player는 한번 씩 돌아가면서 그림을 선택합니다.";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lbx_result2);
+            this.Controls.Add(this.lbx_result1);
+            this.Controls.Add(this.rbtn_player2);
+            this.Controls.Add(this.rbtn_player1);
+            this.Controls.Add(this.pbx_none);
+            this.Controls.Add(this.pbx_star);
+            this.Controls.Add(this.pbx_moon);
+            this.Controls.Add(this.pbx_sun);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_none)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_star)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_moon)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbx_sun)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.ListBox lbx_result2;
+        private System.Windows.Forms.ListBox lbx_result1;
+        private System.Windows.Forms.RadioButton rbtn_player2;
+        private System.Windows.Forms.RadioButton rbtn_player1;
+        private System.Windows.Forms.PictureBox pbx_none;
+        private System.Windows.Forms.PictureBox pbx_star;
+        private System.Windows.Forms.PictureBox pbx_moon;
+        private System.Windows.Forms.PictureBox pbx_sun;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
     }
 }
 
