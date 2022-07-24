@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\bin\Debug\Dori13_Inheritance.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\bin\Debug\Dori13_Inheritance.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\bin\Debug\Dori13_Inheritance.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\obj\Debug\Dori13_Inheritance.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\obj\Debug\Dori13_Inheritance.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\obj\Debug\Dori13_Inheritance.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\obj\Debug\Dori13_Inheritance.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\obj\Debug\Dori13_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\obj\Debug\Dori13_Inheritance.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori13_Inheritance\obj\Debug\Dori13_Inheritance.pdb
