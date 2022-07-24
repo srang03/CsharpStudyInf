@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dor
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\bin\Debug\Dori03_ProgramAndMethod.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\bin\Debug\Dori03_ProgramAndMethod.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\bin\Debug\Dori03_ProgramAndMethod.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori03_ProgramAndMethod\obj\Debug\Dori03_ProgramAndMethod.pdb

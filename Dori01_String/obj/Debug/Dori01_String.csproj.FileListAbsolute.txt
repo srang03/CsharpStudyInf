@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\bin\Debug\Dori01_String.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\bin\Debug\Dori01_String.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\bin\Debug\Dori01_String.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori01_String\obj\Debug\Dori01_String.pdb

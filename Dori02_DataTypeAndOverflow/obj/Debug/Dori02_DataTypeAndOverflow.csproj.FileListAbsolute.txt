@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\bin\Debug\Dori02_DataTypeAndOverflow.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\bin\Debug\Dori02_DataTypeAndOverflow.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\bin\Debug\Dori02_DataTypeAndOverflow.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori02_DataTypeAndOverflow\obj\Debug\Dori02_DataTypeAndOverflow.pdb

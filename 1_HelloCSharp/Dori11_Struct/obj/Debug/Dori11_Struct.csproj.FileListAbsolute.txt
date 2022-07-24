@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\bin\Debug\Dori11_Struct.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\bin\Debug\Dori11_Struct.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\bin\Debug\Dori11_Struct.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\obj\Debug\Dori11_Struct.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\obj\Debug\Dori11_Struct.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\obj\Debug\Dori11_Struct.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\obj\Debug\Dori11_Struct.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\obj\Debug\Dori11_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\obj\Debug\Dori11_Struct.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori11_Struct\obj\Debug\Dori11_Struct.pdb

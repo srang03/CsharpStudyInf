@@ -9,3 +9,12 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.c
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\bin\Debug\Dori10_while.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\bin\Debug\Dori10_while.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\bin\Debug\Dori10_while.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.pdb
