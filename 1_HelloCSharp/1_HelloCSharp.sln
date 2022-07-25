@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1927
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_HelloCSharp", "1_HelloCSharp.csproj", "{0F1797BA-3DF9-4E34-BB40-05C926F8CBFE}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori12_Class", "Dori12_Class\Dori12_Class.csproj", "{90C5FBE7-2C43-4919-A142-E782C9BA2D6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori13_Inheritance", "..\Dori13_Inheritance\Dori13_Inheritance.csproj", "{844C8057-C400-4CC6-9307-D325B9B2F433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori15_Encapsulation", "..\Dori15_Encapsulation\Dori15_Encapsulation.csproj", "{642D4523-20F5-4482-A9E3-3F7FDCF97F3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{844C8057-C400-4CC6-9307-D325B9B2F433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{844C8057-C400-4CC6-9307-D325B9B2F433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{844C8057-C400-4CC6-9307-D325B9B2F433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642D4523-20F5-4482-A9E3-3F7FDCF97F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642D4523-20F5-4482-A9E3-3F7FDCF97F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642D4523-20F5-4482-A9E3-3F7FDCF97F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642D4523-20F5-4482-A9E3-3F7FDCF97F3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
