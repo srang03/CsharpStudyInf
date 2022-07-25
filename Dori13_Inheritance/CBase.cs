@@ -24,9 +24,31 @@ namespace Dori13_Inheritance
             _rtSquare = new Rectangle(150, 30, 60, 120);
         }
 
-        public Pen GetPen()
+        public Pen Pen
         {
-            return this._pen;
+            get { return _pen; }
+            protected set { this._pen = value; }
         }
+
+        public virtual void Move(int iMove)
+        {
+            CircleMove(iMove);
+            SquareMove(iMove);
+        }
+
+        public virtual void CircleMove(int iMove)
+        {
+            Point oPoint = _rtCircle.Location; // 현재 위치
+            oPoint.X += iMove;
+            _rtCircle.Location = oPoint;
+        }
+
+        public virtual void SquareMove(int iMove)
+        {
+            Point oPoint = _rtSquare.Location; // 현재 위치
+            oPoint.X += iMove;
+            _rtSquare.Location = oPoint;
+        }
+
     }
 }

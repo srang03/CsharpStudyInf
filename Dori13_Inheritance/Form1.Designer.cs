@@ -39,7 +39,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.panel1.BackColor = System.Drawing.Color.Gray;
             this.panel1.ForeColor = System.Drawing.Color.White;
             this.panel1.Location = new System.Drawing.Point(12, 12);
             this.panel1.Name = "panel1";
@@ -75,6 +75,7 @@
             this.btn_step2.TabIndex = 2;
             this.btn_step2.Text = "2단계";
             this.btn_step2.UseVisualStyleBackColor = true;
+            this.btn_step2.Click += new System.EventHandler(this.btn_step2_Click);
             // 
             // btn_step3
             // 
@@ -84,6 +85,7 @@
             this.btn_step3.TabIndex = 2;
             this.btn_step3.Text = "3단계";
             this.btn_step3.UseVisualStyleBackColor = true;
+            this.btn_step3.Click += new System.EventHandler(this.btn_step3_Click);
             // 
             // btn_prev
             // 
@@ -93,6 +95,7 @@
             this.btn_prev.TabIndex = 2;
             this.btn_prev.Text = "<";
             this.btn_prev.UseVisualStyleBackColor = true;
+            this.btn_prev.Click += new System.EventHandler(this.btn_prev_Click);
             // 
             // btn_next
             // 
@@ -102,6 +105,7 @@
             this.btn_next.TabIndex = 2;
             this.btn_next.Text = ">";
             this.btn_next.UseVisualStyleBackColor = true;
+            this.btn_next.Click += new System.EventHandler(this.btn_next_Click);
             // 
             // Form1
             // 
@@ -115,11 +119,16 @@
             this.Controls.Add(this.btn_step1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
+            this.KeyPreview = true;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.KeyDown += Form1_KeyDown;
             this.ResumeLayout(false);
 
         }
+
+
 
         #endregion
 

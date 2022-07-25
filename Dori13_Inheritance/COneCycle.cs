@@ -13,5 +13,7 @@ namespace Dori13_Inheritance
         {
             base.strName = name;
         }
+
+
     }
 }
