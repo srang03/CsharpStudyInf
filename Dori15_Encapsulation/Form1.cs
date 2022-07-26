@@ -6,14 +6,16 @@ namespace Dori15_Encapsulation
     public partial class Form1 : Form
     {
         private cData _data;
+        private double total;
         public Form1()
         {
             InitializeComponent();
+            total = 0;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            _data = new cData();
+            
             var prodcut = Enum.GetValues(typeof(EnumProduct));
             var rate = Enum.GetValues(typeof(EnumRate));
             
@@ -36,17 +38,22 @@ namespace Dori15_Encapsulation
 
         private void btn_get_Click(object sender, EventArgs e)
         {
-            if(string.IsNullOrEmpty(this.cbx_product.Text))
+            _data = new cData();
+
+            _data.ProductName = this.cbx_product.Text;
+            _data.iRate = (int)Enum.Parse(typeof(EnumRate), this.cbx_sales.Text);
+            _data.iCount = (int)(this.numericUpDown1.Value);
+
+            if (!string.IsNullOrEmpty(_data.message))
             {
-                MessageBox.Show("You have to select Product");
-            }
-            else
-            {
-                _data.ProductName = this.cbx_product.SelectedItem.ToString();
+                this.tbx_message.Text = _data.message;
+                return;
             }
             
-            _data.iRate = int.Parse(this.cbx_sales.SelectedItem.ToString());
-            _data.iCount = (int)(this.numericUpDown1.Value);
+            double dPrice = _data.GetItemPrice();
+            this.listBox1.Items.Add(_data.fResult(dPrice));
+            total += dPrice;
+            this.txb_total.Text = total.ToString();
         }
 
 

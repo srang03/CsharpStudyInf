@@ -7,13 +7,14 @@ namespace Dori15_Encapsulation
     /// </summary>
     partial class cData
     {
+        private string _name;
+        private int _iRate;
+        private int _iCount;
+
         public string message = string.Empty;
         public string ProductName
         {
-            get
-            {
-                return ProductName;
-            }
+            get { return _name; }
             set
             {
                 if (String.IsNullOrEmpty(value))
@@ -22,17 +23,14 @@ namespace Dori15_Encapsulation
                 }
                 else
                 {
-                    ProductName = value;
+                    _name = value;
                 }
             }
         }
 
         public int iRate
         {
-            get
-            {
-                return iRate;
-            }
+            get { return _iRate; }
             set
             {
                 if (value < 1)
@@ -45,13 +43,13 @@ namespace Dori15_Encapsulation
                 }
                 else
                 {
-                    iRate = value;
+                    _iRate = value;
                 }
             }
         }
         public int iCount
         {
-            get { return iCount; }
+            get { return _iCount; }
             set
             {
                 if (value < 1)
@@ -64,16 +62,16 @@ namespace Dori15_Encapsulation
                 }
                 else
                 {
-                    iCount = value;
+                    _iCount = value;
                 }
             }
         }
 
         public cData()
         {
-            ProductName = string.Empty;
-            iRate = 0;
-            iCount = 0;
+            _name = string.Empty;
+            _iRate = 0;
+            _iCount = 0;
         }
 
     }
@@ -82,12 +80,32 @@ namespace Dori15_Encapsulation
     {
         public double GetItemPrice()
         {
-            double price = 0;
-            double rate = 0;
+            int price = 0;
+            double discountPrice = 0;
             if (String.IsNullOrEmpty(message))
             {
+                price = ((int)Enum.Parse(typeof(EnumProduct), ProductName));
+                discountPrice = price - Math.Round((double)price * (double)_iRate / 100, 2);
+            }
+
+            return discountPrice * _iCount;
+        }
+    }
+
+    partial class cData
+    {
+        public string fResult(double dPrice)
+        {
+            if(_iRate == 0)
+            {
+                return string.Format("[{0}] 수량: {1} 가격: {2}", _name, _iCount, dPrice);
 
             }
+            else
+            {
+                return string.Format("[{0}] 수량: {1} 가격: {2} (할인율: {3}%)", _name, _iCount, dPrice, _iRate);
+            }
         }
+        
     }
 }
