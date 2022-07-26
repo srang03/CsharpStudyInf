@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\bin\Debug\Dori16_StreamReader.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\bin\Debug\Dori16_StreamReader.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\bin\Debug\Dori16_StreamReader.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\obj\Debug\Dori16_StreamReader.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\obj\Debug\Dori16_StreamReader.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\obj\Debug\Dori16_StreamReader.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\obj\Debug\Dori16_StreamReader.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\obj\Debug\Dori16_StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\obj\Debug\Dori16_StreamReader.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori16_StreamReader\obj\Debug\Dori16_StreamReader.pdb
