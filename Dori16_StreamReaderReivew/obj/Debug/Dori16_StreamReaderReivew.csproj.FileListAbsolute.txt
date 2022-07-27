@@ -1,0 +1,14 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\bin\Debug\Dori16_StreamReaderReivew.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\bin\Debug\Dori16_StreamReaderReivew.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\bin\Debug\Dori16_StreamReaderReivew.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori16_StreamReaderReivew\obj\Debug\Dori16_StreamReaderReivew.csproj.CopyComplete

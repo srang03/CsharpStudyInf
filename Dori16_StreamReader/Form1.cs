@@ -75,6 +75,7 @@ namespace Dori16_StreamReader
                 
 
                 sb.Append(File.ReadAllText(strFilePath));
+                // string[] str = File.ReadAllLines(strFilePath);
                 this.txb_result.Text = sb.ToString();
             }
             sb.Clear();
