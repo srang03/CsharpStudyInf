@@ -1,0 +1,14 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\bin\Debug\netcoreapp3.1\Dori19_EncriptionReview.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\bin\Debug\netcoreapp3.1\Dori19_EncriptionReview.deps.json
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\bin\Debug\netcoreapp3.1\Dori19_EncriptionReview.runtimeconfig.json
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\bin\Debug\netcoreapp3.1\Dori19_EncriptionReview.runtimeconfig.dev.json
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\bin\Debug\netcoreapp3.1\Dori19_EncriptionReview.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\bin\Debug\netcoreapp3.1\Dori19_EncriptionReview.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\obj\Debug\netcoreapp3.1\Dori19_EncriptionReview.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\obj\Debug\netcoreapp3.1\Dori19_EncriptionReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\obj\Debug\netcoreapp3.1\Dori19_EncriptionReview.AssemblyInfoInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\obj\Debug\netcoreapp3.1\Dori19_EncriptionReview.AssemblyInfo.cs
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\obj\Debug\netcoreapp3.1\Dori19_EncriptionReview.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\obj\Debug\netcoreapp3.1\Dori19_EncriptionReview.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\obj\Debug\netcoreapp3.1\Dori19_EncriptionReview.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_EncriptionReview\obj\Debug\netcoreapp3.1\Dori19_EncriptionReview.genruntimeconfig.cache

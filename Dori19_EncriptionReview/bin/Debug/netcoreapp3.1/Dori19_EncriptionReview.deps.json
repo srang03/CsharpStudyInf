@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dori19_EncriptionReview/1.0.0": {
+        "runtime": {
+          "Dori19_EncriptionReview.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dori19_EncriptionReview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
