@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\bin\Debug\Dori18_Timer.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\bin\Debug\Dori18_Timer.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\bin\Debug\Dori18_Timer.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\obj\Debug\Dori18_Timer.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\obj\Debug\Dori18_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\obj\Debug\Dori18_Timer.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\obj\Debug\Dori18_Timer.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\obj\Debug\Dori18_Timer.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\obj\Debug\Dori18_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\obj\Debug\Dori18_Timer.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori18_Timer\obj\Debug\Dori18_Timer.pdb

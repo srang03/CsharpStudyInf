@@ -1,11 +1,11 @@
-C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\bin\Debug\Dori_17XMLReader.exe.config
-C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\bin\Debug\Dori_17XMLReader.exe
-C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\bin\Debug\Dori_17XMLReader.pdb
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori17_XMLReader.csproj.AssemblyReference.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori17_XMLReader.csproj.SuggestedBindingRedirects.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori_17XMLReader.Form1.resources
-C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori_17XMLReader.Properties.Resources.resources
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori17_XMLReader.csproj.GenerateResource.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori17_XMLReader.csproj.CoreCompileInputs.cache
-C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori_17XMLReader.exe
-C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori_17XMLReader.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\bin\Debug\Dori17_XMLReader.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\bin\Debug\Dori17_XMLReader.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\bin\Debug\Dori17_XMLReader.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori17_XMLReader.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori17_XMLReader.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori_17XMLReader\obj\Debug\Dori17_XMLReader.pdb

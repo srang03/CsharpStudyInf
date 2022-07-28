@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori16_StreamReaderReivew",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori17_XMLReader", "..\Dori_17XMLReader\Dori17_XMLReader.csproj", "{BAED728C-2573-4919-BA44-490752C70D2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori18_Timer", "..\Dori18_Timer\Dori18_Timer.csproj", "{D9B089A8-3239-4142-AA4E-00EA704A7AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{BAED728C-2573-4919-BA44-490752C70D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAED728C-2573-4919-BA44-490752C70D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAED728C-2573-4919-BA44-490752C70D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B089A8-3239-4142-AA4E-00EA704A7AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B089A8-3239-4142-AA4E-00EA704A7AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B089A8-3239-4142-AA4E-00EA704A7AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B089A8-3239-4142-AA4E-00EA704A7AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
