@@ -1,0 +1,13 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\bin\Debug\Dori21_ListStruct.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\bin\Debug\Dori21_ListStruct.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\bin\Debug\Dori21_ListStruct.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori21_ListStruct\obj\Debug\Dori21_ListStruct.csproj.CopyComplete
