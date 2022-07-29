@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori20_StackQueue", "..\Dor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori21_ListStruct", "..\Dori21_ListStruct\Dori21_ListStruct.csproj", "{B33343E5-709B-42EE-BDFE-10C13145ECFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori22_Dictionary", "..\Dori22_Dictionary\Dori22_Dictionary.csproj", "{2108D3F7-E6FD-444F-9EA3-A91DBCE83BC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{B33343E5-709B-42EE-BDFE-10C13145ECFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B33343E5-709B-42EE-BDFE-10C13145ECFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B33343E5-709B-42EE-BDFE-10C13145ECFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2108D3F7-E6FD-444F-9EA3-A91DBCE83BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2108D3F7-E6FD-444F-9EA3-A91DBCE83BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2108D3F7-E6FD-444F-9EA3-A91DBCE83BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2108D3F7-E6FD-444F-9EA3-A91DBCE83BC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
