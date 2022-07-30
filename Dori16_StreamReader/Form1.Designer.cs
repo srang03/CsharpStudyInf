@@ -31,13 +31,13 @@
             this.btn_get = new System.Windows.Forms.Button();
             this.btn_set = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.txb_text = new System.Windows.Forms.TextBox();
-            this.checkbx_value = new System.Windows.Forms.CheckBox();
             this.nud_number = new System.Windows.Forms.NumericUpDown();
+            this.checkbx_value = new System.Windows.Forms.CheckBox();
+            this.txb_text = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.btn_getConfig = new System.Windows.Forms.Button();
             this.btn_setConfig = new System.Windows.Forms.Button();
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
@@ -55,6 +55,7 @@
             this.btn_get.TabIndex = 0;
             this.btn_get.Text = "Get";
             this.btn_get.UseVisualStyleBackColor = true;
+            this.btn_get.Click += new System.EventHandler(this.btn_get_Click);
             // 
             // btn_set
             // 
@@ -64,6 +65,7 @@
             this.btn_set.TabIndex = 0;
             this.btn_set.Text = "Set";
             this.btn_set.UseVisualStyleBackColor = true;
+            this.btn_set.Click += new System.EventHandler(this.btn_set_Click);
             // 
             // panel1
             // 
@@ -79,48 +81,12 @@
             this.panel1.Size = new System.Drawing.Size(299, 146);
             this.panel1.TabIndex = 2;
             // 
-            // label1
+            // nud_number
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(3, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(41, 12);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Config";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(19, 37);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(38, 12);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Text :";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(19, 73);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(71, 12);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "CheckBox :";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(19, 106);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(58, 12);
-            this.label4.TabIndex = 0;
-            this.label4.Text = "Number :";
-            // 
-            // txb_text
-            // 
-            this.txb_text.Location = new System.Drawing.Point(96, 37);
-            this.txb_text.Name = "txb_text";
-            this.txb_text.Size = new System.Drawing.Size(120, 21);
-            this.txb_text.TabIndex = 1;
+            this.nud_number.Location = new System.Drawing.Point(96, 104);
+            this.nud_number.Name = "nud_number";
+            this.nud_number.Size = new System.Drawing.Size(120, 21);
+            this.nud_number.TabIndex = 3;
             // 
             // checkbx_value
             // 
@@ -132,12 +98,48 @@
             this.checkbx_value.Text = "checkBox1";
             this.checkbx_value.UseVisualStyleBackColor = true;
             // 
-            // nud_number
+            // txb_text
             // 
-            this.nud_number.Location = new System.Drawing.Point(96, 104);
-            this.nud_number.Name = "nud_number";
-            this.nud_number.Size = new System.Drawing.Size(120, 21);
-            this.nud_number.TabIndex = 3;
+            this.txb_text.Location = new System.Drawing.Point(96, 37);
+            this.txb_text.Name = "txb_text";
+            this.txb_text.Size = new System.Drawing.Size(120, 21);
+            this.txb_text.TabIndex = 1;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(19, 106);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(58, 12);
+            this.label4.TabIndex = 0;
+            this.label4.Text = "Number :";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(19, 73);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(71, 12);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "CheckBox :";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(19, 37);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(38, 12);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Text :";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(3, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(41, 12);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Config";
             // 
             // btn_getConfig
             // 
@@ -147,6 +149,7 @@
             this.btn_getConfig.TabIndex = 0;
             this.btn_getConfig.Text = "Get Config";
             this.btn_getConfig.UseVisualStyleBackColor = true;
+            this.btn_getConfig.Click += new System.EventHandler(this.btn_getConfig_Click);
             // 
             // btn_setConfig
             // 

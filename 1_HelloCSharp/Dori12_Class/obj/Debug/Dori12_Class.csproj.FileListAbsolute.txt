@@ -8,3 +8,14 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori12_Class\bin\Deb
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori12_Class\bin\Debug\Dori12_Class.pdb
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\bin\Debug\Dori12_Class.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\bin\Debug\Dori12_Class.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\bin\Debug\Dori12_Class.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori12_Class\obj\Debug\Dori12_Class.pdb

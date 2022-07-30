@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Ian\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ian\\Desktop\\ian\\Study\\CsharpStudyInf\\Dori19_EncriptionReview\\Dori19_EncriptionReview.csproj",
+      "projectName": "Dori19_EncriptionReview",
+      "projectPath": "C:\\Users\\Ian\\Desktop\\ian\\Study\\CsharpStudyInf\\Dori19_EncriptionReview\\Dori19_EncriptionReview.csproj",
+      "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ian\\Desktop\\ian\\Study\\CsharpStudyInf\\Dori19_EncriptionReview\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {}
+    }
+  }
+}

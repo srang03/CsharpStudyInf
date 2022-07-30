@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\bin\Debug\Dori23_DataTableDataSet.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\bin\Debug\Dori23_DataTableDataSet.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\bin\Debug\Dori23_DataTableDataSet.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\obj\Debug\Dori23_DataTableDataSet.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\obj\Debug\Dori23_DataTableDataSet.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\obj\Debug\Dori23_DataTableDataSet.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\obj\Debug\Dori23_DataTableDataSet.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\obj\Debug\Dori23_DataTableDataSet.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\obj\Debug\Dori23_DataTableDataSet.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori23_DataTableDataSet\obj\Debug\Dori23_DataTableDataSet.pdb

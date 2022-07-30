@@ -12,3 +12,8 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.dll
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.pdb
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.genruntimeconfig.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\Dori11_Struct.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\_1_HelloCSharp.Dori11_Struct.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\Dori12_Class.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\_1_HelloCSharp.Dori12_Class.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\obj\Debug\netcoreapp3.1\1_HelloCSharp.csproj.GenerateResource.cache

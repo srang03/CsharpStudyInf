@@ -1,0 +1,15 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\bin\Debug\Dori19_Encryption.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\bin\Debug\Dori19_Encryption.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\bin\Debug\Dori19_Encryption.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\bin\Debug\Dori17_XMLReader.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\bin\Debug\Dori17_XMLReader.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\bin\Debug\Dori17_XMLReader.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori19_Encryption\obj\Debug\Dori19_Encryption.csproj.CopyComplete
