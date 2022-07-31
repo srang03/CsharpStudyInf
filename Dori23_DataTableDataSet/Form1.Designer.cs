@@ -30,37 +30,38 @@
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btn_enroll = new System.Windows.Forms.Button();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.label1 = new System.Windows.Forms.Label();
             this.combobx_class = new System.Windows.Forms.ComboBox();
-            this.rdb_woman = new System.Windows.Forms.RadioButton();
-            this.rdb_man = new System.Windows.Forms.RadioButton();
             this.txb_ref = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.txb_name = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.rdb_man = new System.Windows.Forms.RadioButton();
+            this.rdb_woman = new System.Windows.Forms.RadioButton();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.btn_delete = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.combobx_selectClass = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.btn_delete = new System.Windows.Forms.Button();
+            this.lbl_ref = new System.Windows.Forms.Label();
+            this.lbl_class = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.lbl_name = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.lbl_gender = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.lbl_gender = new System.Windows.Forms.Label();
-            this.lbl_name = new System.Windows.Forms.Label();
-            this.lbl_class = new System.Windows.Forms.Label();
-            this.lbl_ref = new System.Windows.Forms.Label();
-            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
+            this.tableLayoutPanel1.SuspendLayout();
+            this.panel1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox3.SuspendLayout();
-            this.tableLayoutPanel1.SuspendLayout();
-            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -84,6 +85,41 @@
             this.btn_enroll.UseVisualStyleBackColor = true;
             this.btn_enroll.Click += new System.EventHandler(this.btn_enroll_Click);
             // 
+            // tableLayoutPanel1
+            // 
+            this.tableLayoutPanel1.ColumnCount = 2;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 40F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.combobx_class, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.txb_ref, 1, 3);
+            this.tableLayoutPanel1.Controls.Add(this.label2, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.label3, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.txb_name, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.label4, 0, 3);
+            this.tableLayoutPanel1.Controls.Add(this.panel1, 1, 2);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(6, 16);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 4;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(175, 151);
+            this.tableLayoutPanel1.TabIndex = 8;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label1.Location = new System.Drawing.Point(3, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(34, 37);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "반";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
             // combobx_class
             // 
             this.combobx_class.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -93,28 +129,6 @@
             this.combobx_class.Size = new System.Drawing.Size(129, 20);
             this.combobx_class.TabIndex = 6;
             // 
-            // rdb_woman
-            // 
-            this.rdb_woman.AutoSize = true;
-            this.rdb_woman.Location = new System.Drawing.Point(85, 10);
-            this.rdb_woman.Name = "rdb_woman";
-            this.rdb_woman.Size = new System.Drawing.Size(47, 16);
-            this.rdb_woman.TabIndex = 5;
-            this.rdb_woman.TabStop = true;
-            this.rdb_woman.Text = "여자";
-            this.rdb_woman.UseVisualStyleBackColor = true;
-            // 
-            // rdb_man
-            // 
-            this.rdb_man.AutoSize = true;
-            this.rdb_man.Location = new System.Drawing.Point(3, 10);
-            this.rdb_man.Name = "rdb_man";
-            this.rdb_man.Size = new System.Drawing.Size(47, 16);
-            this.rdb_man.TabIndex = 5;
-            this.rdb_man.TabStop = true;
-            this.rdb_man.Text = "남자";
-            this.rdb_man.UseVisualStyleBackColor = true;
-            // 
             // txb_ref
             // 
             this.txb_ref.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -122,6 +136,28 @@
             this.txb_ref.Name = "txb_ref";
             this.txb_ref.Size = new System.Drawing.Size(129, 21);
             this.txb_ref.TabIndex = 4;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label2.Location = new System.Drawing.Point(3, 37);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(34, 37);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "이름";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.label3.Location = new System.Drawing.Point(3, 74);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(34, 37);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "성별";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // txb_name
             // 
@@ -142,42 +178,40 @@
             this.label4.Text = "특기";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label3
+            // panel1
             // 
-            this.label3.AutoSize = true;
-            this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label3.Location = new System.Drawing.Point(3, 74);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(34, 37);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "성별";
-            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.panel1.Controls.Add(this.rdb_man);
+            this.panel1.Controls.Add(this.rdb_woman);
+            this.panel1.Location = new System.Drawing.Point(43, 77);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(129, 31);
+            this.panel1.TabIndex = 7;
             // 
-            // label2
+            // rdb_man
             // 
-            this.label2.AutoSize = true;
-            this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label2.Location = new System.Drawing.Point(3, 37);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(34, 37);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "이름";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.rdb_man.AutoSize = true;
+            this.rdb_man.Location = new System.Drawing.Point(3, 10);
+            this.rdb_man.Name = "rdb_man";
+            this.rdb_man.Size = new System.Drawing.Size(47, 16);
+            this.rdb_man.TabIndex = 5;
+            this.rdb_man.TabStop = true;
+            this.rdb_man.Text = "남자";
+            this.rdb_man.UseVisualStyleBackColor = true;
             // 
-            // label1
+            // rdb_woman
             // 
-            this.label1.AutoSize = true;
-            this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.label1.Location = new System.Drawing.Point(3, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(34, 37);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "반";
-            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.rdb_woman.AutoSize = true;
+            this.rdb_woman.Location = new System.Drawing.Point(85, 10);
+            this.rdb_woman.Name = "rdb_woman";
+            this.rdb_woman.Size = new System.Drawing.Size(47, 16);
+            this.rdb_woman.TabIndex = 5;
+            this.rdb_woman.TabStop = true;
+            this.rdb_woman.Text = "여자";
+            this.rdb_woman.UseVisualStyleBackColor = true;
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.button1);
             this.groupBox2.Controls.Add(this.btn_delete);
             this.groupBox2.Controls.Add(this.dataGridView1);
             this.groupBox2.Controls.Add(this.combobx_selectClass);
@@ -188,6 +222,16 @@
             this.groupBox2.TabIndex = 8;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "groupBox2";
+            // 
+            // btn_delete
+            // 
+            this.btn_delete.Location = new System.Drawing.Point(386, 17);
+            this.btn_delete.Name = "btn_delete";
+            this.btn_delete.Size = new System.Drawing.Size(75, 47);
+            this.btn_delete.TabIndex = 3;
+            this.btn_delete.Text = "삭제";
+            this.btn_delete.UseVisualStyleBackColor = true;
+            this.btn_delete.Click += new System.EventHandler(this.btn_delete_Click);
             // 
             // dataGridView1
             // 
@@ -233,15 +277,41 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "groupBox3";
             // 
-            // btn_delete
+            // lbl_ref
             // 
-            this.btn_delete.Location = new System.Drawing.Point(386, 17);
-            this.btn_delete.Name = "btn_delete";
-            this.btn_delete.Size = new System.Drawing.Size(75, 47);
-            this.btn_delete.TabIndex = 3;
-            this.btn_delete.Text = "삭제";
-            this.btn_delete.UseVisualStyleBackColor = true;
-            this.btn_delete.Click += new System.EventHandler(this.btn_delete_Click);
+            this.lbl_ref.AutoSize = true;
+            this.lbl_ref.Location = new System.Drawing.Point(55, 140);
+            this.lbl_ref.Name = "lbl_ref";
+            this.lbl_ref.Size = new System.Drawing.Size(11, 12);
+            this.lbl_ref.TabIndex = 3;
+            this.lbl_ref.Text = "-";
+            // 
+            // lbl_class
+            // 
+            this.lbl_class.AutoSize = true;
+            this.lbl_class.Location = new System.Drawing.Point(55, 35);
+            this.lbl_class.Name = "lbl_class";
+            this.lbl_class.Size = new System.Drawing.Size(11, 12);
+            this.lbl_class.TabIndex = 0;
+            this.lbl_class.Text = "-";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(6, 140);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(29, 12);
+            this.label9.TabIndex = 3;
+            this.label9.Text = "특기";
+            // 
+            // lbl_name
+            // 
+            this.lbl_name.AutoSize = true;
+            this.lbl_name.Location = new System.Drawing.Point(55, 68);
+            this.lbl_name.Name = "lbl_name";
+            this.lbl_name.Size = new System.Drawing.Size(11, 12);
+            this.lbl_name.TabIndex = 1;
+            this.lbl_name.Text = "-";
             // 
             // label6
             // 
@@ -251,6 +321,15 @@
             this.label6.Size = new System.Drawing.Size(17, 12);
             this.label6.TabIndex = 0;
             this.label6.Text = "반";
+            // 
+            // lbl_gender
+            // 
+            this.lbl_gender.AutoSize = true;
+            this.lbl_gender.Location = new System.Drawing.Point(55, 103);
+            this.lbl_gender.Name = "lbl_gender";
+            this.lbl_gender.Size = new System.Drawing.Size(11, 12);
+            this.lbl_gender.TabIndex = 2;
+            this.lbl_gender.Text = "-";
             // 
             // label7
             // 
@@ -270,82 +349,15 @@
             this.label8.TabIndex = 2;
             this.label8.Text = "성별";
             // 
-            // label9
+            // button1
             // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(6, 140);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(29, 12);
-            this.label9.TabIndex = 3;
-            this.label9.Text = "특기";
-            // 
-            // lbl_gender
-            // 
-            this.lbl_gender.AutoSize = true;
-            this.lbl_gender.Location = new System.Drawing.Point(55, 103);
-            this.lbl_gender.Name = "lbl_gender";
-            this.lbl_gender.Size = new System.Drawing.Size(11, 12);
-            this.lbl_gender.TabIndex = 2;
-            this.lbl_gender.Text = "-";
-            // 
-            // lbl_name
-            // 
-            this.lbl_name.AutoSize = true;
-            this.lbl_name.Location = new System.Drawing.Point(55, 68);
-            this.lbl_name.Name = "lbl_name";
-            this.lbl_name.Size = new System.Drawing.Size(11, 12);
-            this.lbl_name.TabIndex = 1;
-            this.lbl_name.Text = "-";
-            // 
-            // lbl_class
-            // 
-            this.lbl_class.AutoSize = true;
-            this.lbl_class.Location = new System.Drawing.Point(55, 35);
-            this.lbl_class.Name = "lbl_class";
-            this.lbl_class.Size = new System.Drawing.Size(11, 12);
-            this.lbl_class.TabIndex = 0;
-            this.lbl_class.Text = "-";
-            // 
-            // lbl_ref
-            // 
-            this.lbl_ref.AutoSize = true;
-            this.lbl_ref.Location = new System.Drawing.Point(55, 140);
-            this.lbl_ref.Name = "lbl_ref";
-            this.lbl_ref.Size = new System.Drawing.Size(11, 12);
-            this.lbl_ref.TabIndex = 3;
-            this.lbl_ref.Text = "-";
-            // 
-            // tableLayoutPanel1
-            // 
-            this.tableLayoutPanel1.ColumnCount = 2;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 40F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Controls.Add(this.label1, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(this.combobx_class, 1, 0);
-            this.tableLayoutPanel1.Controls.Add(this.txb_ref, 1, 3);
-            this.tableLayoutPanel1.Controls.Add(this.label2, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label3, 0, 2);
-            this.tableLayoutPanel1.Controls.Add(this.txb_name, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.label4, 0, 3);
-            this.tableLayoutPanel1.Controls.Add(this.panel1, 1, 2);
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(6, 16);
-            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 4;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(175, 151);
-            this.tableLayoutPanel1.TabIndex = 8;
-            // 
-            // panel1
-            // 
-            this.panel1.Controls.Add(this.rdb_man);
-            this.panel1.Controls.Add(this.rdb_woman);
-            this.panel1.Location = new System.Drawing.Point(43, 77);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(129, 31);
-            this.panel1.TabIndex = 7;
+            this.button1.Location = new System.Drawing.Point(305, 17);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 47);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "수정";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.btn_Modify_Click);
             // 
             // Form1
             // 
@@ -359,15 +371,15 @@
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
+            this.tableLayoutPanel1.ResumeLayout(false);
+            this.tableLayoutPanel1.PerformLayout();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
-            this.tableLayoutPanel1.ResumeLayout(false);
-            this.tableLayoutPanel1.PerformLayout();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -401,6 +413,7 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button button1;
     }
 }
 

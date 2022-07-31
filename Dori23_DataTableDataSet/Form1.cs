@@ -118,5 +118,30 @@ namespace Dori23_DataTableDataSet
             this.dataGridView1.DataSource = null;
             this.dataGridView1.DataSource = ds.Tables[this.combobx_selectClass.Text];
         }
+
+        private void btn_Modify_Click(object sender, EventArgs e)
+        {
+            string str = this.txb_name.Text;
+            if (!string.IsNullOrEmpty(str))
+            {
+                foreach(DataRow item in ds.Tables[this.combobx_class.Text].Rows)
+                {
+                    if (item["Name"].Equals(str))
+                    {
+                        if (this.rdb_man.Checked)
+                        {
+                            item["Gender"] = "남자";
+                        }
+                        else if (this.rdb_woman.Checked)
+                        {
+                            item["Gender"] = "여자";
+                        }
+                        item["Ref"] = this.txb_ref.Text;
+                    }
+
+                }
+                DataBind();
+            }
+        }
     }
 }
