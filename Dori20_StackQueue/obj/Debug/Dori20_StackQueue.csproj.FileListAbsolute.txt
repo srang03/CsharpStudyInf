@@ -9,3 +9,12 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_St
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\bin\Debug\Dori20_StackQueue.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\bin\Debug\Dori20_StackQueue.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\bin\Debug\Dori20_StackQueue.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori20_StackQueue\obj\Debug\Dori20_StackQueue.pdb

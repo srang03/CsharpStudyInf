@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Di
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\bin\Debug\Dori22_Dictionary.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\bin\Debug\Dori22_Dictionary.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\bin\Debug\Dori22_Dictionary.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori22_Dictionary\obj\Debug\Dori22_Dictionary.pdb

@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\bin\Debug\Dori15_Encapsulation.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\bin\Debug\Dori15_Encapsulation.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\bin\Debug\Dori15_Encapsulation.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori15_Encapsulation\obj\Debug\Dori15_Encapsulation.pdb

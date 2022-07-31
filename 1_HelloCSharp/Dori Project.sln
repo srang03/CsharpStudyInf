@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori22_Dictionary", "..\Dor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori23_DataTableDataSet", "..\Dori23_DataTableDataSet\Dori23_DataTableDataSet.csproj", "{8670535E-B03F-423D-AC40-40B1FD879007}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori24_Delegate", "..\Dori24_Delegate\Dori24_Delegate.csproj", "{8029DD1B-F217-496C-8097-4D6C673057DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{8670535E-B03F-423D-AC40-40B1FD879007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8670535E-B03F-423D-AC40-40B1FD879007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8670535E-B03F-423D-AC40-40B1FD879007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8029DD1B-F217-496C-8097-4D6C673057DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8029DD1B-F217-496C-8097-4D6C673057DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8029DD1B-F217-496C-8097-4D6C673057DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8029DD1B-F217-496C-8097-4D6C673057DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
