@@ -41,11 +41,33 @@ namespace Dori26_Thread
             _iLocationY = this.Location.Y;
             for (int i = 0; i < nud_playerCount.Value; i++)
             {
-                Player playerForm1 = new Player();
+                Player playerForm1 = new Player(((_enumPlayer)i).ToString());
                 playerForm1.Location = new Point(_iLocationX, _iLocationY + playerForm1.Height * i);
                 playerForm1.Show();
+                playerForm1.eventDelMessage += PlayerForm1_eventDelMessage;
+               
+                playerForm1.fThreadStart();
             }
-          
+        }
+
+        private int PlayerForm1_eventDelMessage(object sender, string srtResult) 
+        { 
+
+            if (this.InvokeRequired)
+            {
+                this.Invoke(new Action(delegate
+                {
+                    Player oPlayer = sender as Player;
+                    this.lb_player.Items.Add(srtResult);
+                }));
+            }
+           
+            return 0;
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }
