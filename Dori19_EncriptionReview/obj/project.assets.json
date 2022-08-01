@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ian\\Desktop\\ian\\Study\\CsharpStudyInf\\Dori19_EncriptionReview\\Dori19_EncriptionReview.csproj",
+      "projectUniqueName": "C:\\Users\\Ian\\Desktop\\ian\\C#\\CsharpStudyInf\\Dori19_EncriptionReview\\Dori19_EncriptionReview.csproj",
       "projectName": "Dori19_EncriptionReview",
-      "projectPath": "C:\\Users\\Ian\\Desktop\\ian\\Study\\CsharpStudyInf\\Dori19_EncriptionReview\\Dori19_EncriptionReview.csproj",
+      "projectPath": "C:\\Users\\Ian\\Desktop\\ian\\C#\\CsharpStudyInf\\Dori19_EncriptionReview\\Dori19_EncriptionReview.csproj",
       "packagesPath": "C:\\Users\\Ian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ian\\Desktop\\ian\\Study\\CsharpStudyInf\\Dori19_EncriptionReview\\obj\\",
+      "outputPath": "C:\\Users\\Ian\\Desktop\\ian\\C#\\CsharpStudyInf\\Dori19_EncriptionReview\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,12 +32,36 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {}
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
     }
   }
 }
