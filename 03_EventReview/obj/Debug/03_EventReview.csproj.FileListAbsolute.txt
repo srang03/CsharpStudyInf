@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\bin\Debug\03_EventReview.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\bin\Debug\03_EventReview.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\bin\Debug\03_EventReview.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\obj\Debug\03_EventReview.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\obj\Debug\03_EventReview.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\obj\Debug\_03_EventReview.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\obj\Debug\_03_EventReview.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\obj\Debug\03_EventReview.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\obj\Debug\03_EventReview.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\obj\Debug\03_EventReview.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview\obj\Debug\03_EventReview.pdb
