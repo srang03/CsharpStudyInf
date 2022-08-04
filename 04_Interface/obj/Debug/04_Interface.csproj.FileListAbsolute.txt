@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\bin\Debug\04_Interface.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\bin\Debug\04_Interface.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\bin\Debug\04_Interface.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\obj\Debug\04_Interface.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\obj\Debug\04_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\obj\Debug\_04_Interface.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\obj\Debug\_04_Interface.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\obj\Debug\04_Interface.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\obj\Debug\04_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\obj\Debug\04_Interface.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\04_Interface\obj\Debug\04_Interface.pdb
