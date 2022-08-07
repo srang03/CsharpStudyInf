@@ -13,8 +13,13 @@ namespace Dori24_DelegateReview
     public partial class Form1 : Form
     {
         int iTotalPrice = 0;
+        frmPopup frmPopupObj;
         public delegate int delCreate(int iOrder);
         public delegate int delTopping(int iOrder, int iEa);
+
+       
+
+
         public Form1()
         {
             InitializeComponent();
@@ -29,6 +34,7 @@ namespace Dori24_DelegateReview
         {
             iTotalPrice = 0;
             this.listBox1.Items.Clear();
+            Dictionary<string, int> _dPizzaOrder = new Dictionary<string, int>();
             delTopping delT = null;
             int iDowOrder = 0;
             int iEdgeOrder = 0;
@@ -36,20 +42,24 @@ namespace Dori24_DelegateReview
             if (this.rdb_original.Checked)
             {
                 iDowOrder = 1;
+                _dPizzaOrder.Add("오리지널", 1);
             }
             else if (this.rdb_thin.Checked)
             {
                 iDowOrder = 2;
+                _dPizzaOrder.Add("씬", 2);
             }
-
+            
 
             if (this.rdb_richgold.Checked)
             {
                 iEdgeOrder = 1;
+                _dPizzaOrder.Add("리치골드", 1);
             }
             else if (this.rdb_cheese.Checked)
             {
                 iEdgeOrder = 2;
+                _dPizzaOrder.Add("치즈크러스트", 2);
             }
 
             CallbackCreate(iDowOrder, CreateDow);
@@ -59,21 +69,46 @@ namespace Dori24_DelegateReview
             if (this.checkbx_option1.Checked)
             {
                 delT += CreateTopping1;
+                _dPizzaOrder.Add("소시지", 1);
             }
             if (this.checkbx_option2.Checked)
             {
                 delT += CreateTopping2;
+                _dPizzaOrder.Add("감자", 2);
             }
             if (this.checkbx_option3.Checked)
             {
                 delT += CreateTopping3;
+                _dPizzaOrder.Add("치즈", 3);
             }
 
             delT(0, (int)nud_eacount.Value);
 
             this.listBox1.Items.Add($"전체 주문 가격은 {iTotalPrice}원 입니다.");
+
+            Load_Popup(_dPizzaOrder);
         }
         
+        private void Load_Popup(Dictionary<string, int>  _dPizzaOrder)
+        {
+            if (frmPopupObj != null)
+            {
+                frmPopupObj.Dispose();
+                frmPopupObj = null;
+            }
+            frmPopupObj = new frmPopup();
+            frmPopupObj.eventDelPizzaComplete += FrmPopupObj_eventDelPizzaComplete;
+            frmPopupObj.Show();
+
+            frmPopupObj.PizzaCheck(_dPizzaOrder);
+        }
+
+        private int FrmPopupObj_eventDelPizzaComplete(string strResult, int iTime)
+        {
+            this.listBox1.Items.Add($"총 걸린 시간 : {iTime} ({strResult})");
+            return 0;
+        }
+
         private int CallbackCreate(int iOrder, delCreate delFunc)
         {
             return delFunc(iOrder);

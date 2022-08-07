@@ -8,3 +8,4 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Do
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.frmPopup.resources
