@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.2.32630.192
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_HelloCSharp", "1_HelloCSharp.csproj", "{0F1797BA-3DF9-4E34-BB40-05C926F8CBFE}"
 EndProject
@@ -72,6 +72,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_EventReview2", "..\03_EventReview2\03_EventReview2.csproj", "{D22E85F8-1D9D-4A7F-9A18-1FC9F22E1DF8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_.InterfaceEvent", "..\05_.InterfaceEvent\05_.InterfaceEvent.csproj", "{C2292D2A-01E6-4418-A6D5-EE29B1B99B6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dori Review", "Dori Review", "{D7615A91-DFA4-4107-8188-72C6170484C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori24_DelegateReview", "..\Dori24_DelegateReview\Dori24_DelegateReview.csproj", "{486756E5-9283-47BC-907F-1B68A6E463A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -215,6 +219,10 @@ Global
 		{C2292D2A-01E6-4418-A6D5-EE29B1B99B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2292D2A-01E6-4418-A6D5-EE29B1B99B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2292D2A-01E6-4418-A6D5-EE29B1B99B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486756E5-9283-47BC-907F-1B68A6E463A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486756E5-9283-47BC-907F-1B68A6E463A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486756E5-9283-47BC-907F-1B68A6E463A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486756E5-9283-47BC-907F-1B68A6E463A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -226,6 +234,7 @@ Global
 		{F8A6B361-2F06-463C-87DA-1C165523255A} = {A460A8B1-363C-4B05-9EE1-5B597A8E8D9D}
 		{D22E85F8-1D9D-4A7F-9A18-1FC9F22E1DF8} = {A460A8B1-363C-4B05-9EE1-5B597A8E8D9D}
 		{C2292D2A-01E6-4418-A6D5-EE29B1B99B6E} = {A460A8B1-363C-4B05-9EE1-5B597A8E8D9D}
+		{486756E5-9283-47BC-907F-1B68A6E463A2} = {D7615A91-DFA4-4107-8188-72C6170484C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8F0DB15-EDE2-4A62-969C-432D16FD19A8}

@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\bin\Debug\Dori24_DelegateReview.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\bin\Debug\Dori24_DelegateReview.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\bin\Debug\Dori24_DelegateReview.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_DelegateReview\obj\Debug\Dori24_DelegateReview.pdb
