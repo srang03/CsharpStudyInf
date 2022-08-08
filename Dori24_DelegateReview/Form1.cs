@@ -44,6 +44,7 @@ namespace Dori24_DelegateReview
                 iDowOrder = 1;
                 _dPizzaOrder.Add("오리지널", 1);
             }
+
             else if (this.rdb_thin.Checked)
             {
                 iDowOrder = 2;
@@ -56,6 +57,7 @@ namespace Dori24_DelegateReview
                 iEdgeOrder = 1;
                 _dPizzaOrder.Add("리치골드", 1);
             }
+
             else if (this.rdb_cheese.Checked)
             {
                 iEdgeOrder = 2;
@@ -64,7 +66,7 @@ namespace Dori24_DelegateReview
 
             CallbackCreate(iDowOrder, CreateDow);
             CallbackCreate(iEdgeOrder, CreateEdge);
-            
+         
 
             if (this.checkbx_option1.Checked)
             {
