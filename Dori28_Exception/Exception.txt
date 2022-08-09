@@ -1,0 +1,30 @@
+﻿예외처리
+프로세스가 진행되는 도중 어떤 문제가 발생했을 때 문제를 처리하기 위해 진행을 멈추고 다른 작업을 수행할 수 있도록 하는 것이다.
+
+예외처리 중복 확인
+상속된 예외 처리 Class를 사용할 경우 가장 자식 Class부터 호출해서 사용해야 한다.
+자식 Class의 예외를 먼저 확인하고 부모 Class의 예외를 확인하도록 호출한다.
+
+- NullReferenceException
+- OverflowException
+- ArgumentException
+- InvalidCastException
+- FormatException
+- ThreadInterruptedException
+- SystemException
+- Exception
+
+try 
+{
+
+}
+
+catch 
+{
+
+}
+
+finally 
+{
+
+}
