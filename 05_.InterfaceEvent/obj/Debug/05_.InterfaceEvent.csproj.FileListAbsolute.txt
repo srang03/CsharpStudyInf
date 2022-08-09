@@ -9,3 +9,12 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\05_.Inte
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\05_.InterfaceEvent.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\05_.InterfaceEvent.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\05_.InterfaceEvent.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\bin\Debug\05_.InterfaceEvent.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\bin\Debug\05_.InterfaceEvent.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\bin\Debug\05_.InterfaceEvent.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\_05_.InterfaceEvent.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\_05_.InterfaceEvent.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\05_.InterfaceEvent.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\05_.InterfaceEvent.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\05_.InterfaceEvent.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\05_.InterfaceEvent\obj\Debug\05_.InterfaceEvent.pdb

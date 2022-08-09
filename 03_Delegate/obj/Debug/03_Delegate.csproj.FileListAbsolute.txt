@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.csp
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\bin\Debug\03_Delegate.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\bin\Debug\03_Delegate.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\bin\Debug\03_Delegate.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\obj\Debug\_03_Delegate.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\obj\Debug\_03_Delegate.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_Delegate\obj\Debug\03_Delegate.pdb

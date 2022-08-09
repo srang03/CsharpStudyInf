@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventRev
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventReview2.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventReview2.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventReview2.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\bin\Debug\03_EventReview2.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\bin\Debug\03_EventReview2.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\bin\Debug\03_EventReview2.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventReview2.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\obj\Debug\_03_EventReview2.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\obj\Debug\_03_EventReview2.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventReview2.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventReview2.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventReview2.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\03_EventReview2\obj\Debug\03_EventReview2.pdb

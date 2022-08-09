@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\bin\Debug\Dori27_ThreadReview.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\bin\Debug\Dori27_ThreadReview.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\bin\Debug\Dori27_ThreadReview.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\obj\Debug\Dori26_ThreadReview.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\obj\Debug\Dori27_ThreadReview.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\obj\Debug\Dori27_ThreadReview.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\obj\Debug\Dori26_ThreadReview.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\obj\Debug\Dori26_ThreadReview.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\obj\Debug\Dori27_ThreadReview.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\obj\Debug\Dori27_ThreadReview.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori27_ThreadReview\obj\Debug\Dori27_ThreadReview.Player.resources

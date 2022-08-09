@@ -77,6 +77,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dori Review", "Dori Review"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori24_DelegateReview", "..\Dori24_DelegateReview\Dori24_DelegateReview.csproj", "{486756E5-9283-47BC-907F-1B68A6E463A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori26_ThreadReview", "..\Dori27_ThreadReview\Dori26_ThreadReview.csproj", "{D7BFAF47-8639-43E1-ACAF-80BC6657C62C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +225,10 @@ Global
 		{486756E5-9283-47BC-907F-1B68A6E463A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{486756E5-9283-47BC-907F-1B68A6E463A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{486756E5-9283-47BC-907F-1B68A6E463A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BFAF47-8639-43E1-ACAF-80BC6657C62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BFAF47-8639-43E1-ACAF-80BC6657C62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BFAF47-8639-43E1-ACAF-80BC6657C62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BFAF47-8639-43E1-ACAF-80BC6657C62C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -235,6 +241,7 @@ Global
 		{D22E85F8-1D9D-4A7F-9A18-1FC9F22E1DF8} = {A460A8B1-363C-4B05-9EE1-5B597A8E8D9D}
 		{C2292D2A-01E6-4418-A6D5-EE29B1B99B6E} = {A460A8B1-363C-4B05-9EE1-5B597A8E8D9D}
 		{486756E5-9283-47BC-907F-1B68A6E463A2} = {D7615A91-DFA4-4107-8188-72C6170484C1}
+		{D7BFAF47-8639-43E1-ACAF-80BC6657C62C} = {D7615A91-DFA4-4107-8188-72C6170484C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8F0DB15-EDE2-4A62-969C-432D16FD19A8}
