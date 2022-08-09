@@ -67,8 +67,9 @@
             this.btn_cancel.TabIndex = 2;
             this.btn_cancel.Text = "Pause";
             this.btn_cancel.UseVisualStyleBackColor = true;
+            this.btn_cancel.Click += new System.EventHandler(this.btn_cancel_Click);
             // 
-            // Play
+            // Player
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -78,7 +79,7 @@
             this.Controls.Add(this.lbl_progress);
             this.Controls.Add(this.lbl_playerName);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Play";
+            this.Name = "Player";
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Play";
             this.Load += new System.EventHandler(this.Play_Load);

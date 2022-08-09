@@ -12,6 +12,7 @@ namespace Dori27_ThreadReview
 {
     public partial class Form1 : Form
     {
+        List<Player> lPlayer = new List<Player>();
 
         private enum enumPlayer
         {
@@ -46,10 +47,13 @@ namespace Dori27_ThreadReview
                 var tmp = Enum.GetName(typeof(enumPlayer), i);
                 // ((enumPlayer)i).ToString();
                 Player frm = new Player(tmp);
+                
                 frm.eventDelMessage += Frm_eventDelMessage;
                 frm.Location = new Point(_locationX + this.Size.Width, _locationY + (i * frm.Size.Height));
                 frm.Show();
                 frm.fThreadStart();
+
+                lPlayer.Add(frm);
             }
         }
 
@@ -65,6 +69,14 @@ namespace Dori27_ThreadReview
                 }));
             }
             return 0;
+        }
+
+        private void Form1_FormClosing(object sender, System.Windows.Forms.FormClosingEventArgs e)
+        {
+            foreach(var p in lPlayer)
+            {
+                p.ThreadInterrupt();
+            }
         }
     }
 }

@@ -1,4 +1,12 @@
-﻿프로세스 내에서 실행되는 동작의 단위
+﻿1. 프로세스 내에서 실행되는 동작의 단위
 여러 개의 프로세스가 동시에 실행될 수 있도록 한다.
 Cross Thread는 하나의 자원에 대해서 여러 개의 Thread가 동시에 접근하게 되면 자원 관리에 문제가 발생할 수 있다.
 Cross Thread 문제를 해결하기 위해 Thread를 사용할 경우 Invoke를 사용하여 Thread를 잠시 Main Thread쪽으로 위임할 수 있다.
+
+
+2. Thread의 종료
+Thread가 진행 중일 때 프로그램을 종료할 경우 독립적으로 동작하고 있떤 Thread의 자원이 회수 되지 않고 프로그램만 종료되는 경우가 발생한다.
+Thread 종료 방밥
+- Abort를 사용하여 강제 종료
+- Interrupt를 사용하여 대기 상태를 확인한 후 Thread를 빠져나감 > 예외처리인 ThreadInterruptedException을 발생 시킨다.
+- Thread 중단 Flag 변수를 생성하여 변수 값을 변경할 때 Trhead를 빠져나감

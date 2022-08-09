@@ -109,8 +109,11 @@
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nud_count)).EndInit();
             this.ResumeLayout(false);
+            this.FormClosing += Form1_FormClosing;
 
         }
+
+ 
 
         #endregion
 
