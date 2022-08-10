@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\bin\Debug\Dori29_UserControl.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\bin\Debug\Dori29_UserControl.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\bin\Debug\Dori29_UserControl.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\obj\Debug\Dori29_UserControl.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\obj\Debug\Dori29_UserControl.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\obj\Debug\Dori29_UserControl.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\obj\Debug\Dori29_UserControl.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\obj\Debug\Dori29_UserControl.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\obj\Debug\Dori29_UserControl.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\obj\Debug\Dori29_UserControl.UserControlP.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori29_UserControl\obj\Debug\Dori29_UserControl.Form1.resources

@@ -81,6 +81,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori26_ThreadReview", "..\D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori28_Exception", "..\Dori28_Exception\Dori28_Exception.csproj", "{6DF96C53-FB46-401A-B5DD-98C6307BF9B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori28_Exception2", "..\Dori28_Exception2\Dori28_Exception2.csproj", "{B3D5FC10-C48E-4CBF-9D18-EB0E35FE4C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori29_UserControl", "Dori29_UserControl\Dori29_UserControl.csproj", "{BAFC54B5-3EEB-40BC-BFEF-F5ACC8A3176C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -235,6 +239,14 @@ Global
 		{6DF96C53-FB46-401A-B5DD-98C6307BF9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DF96C53-FB46-401A-B5DD-98C6307BF9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DF96C53-FB46-401A-B5DD-98C6307BF9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D5FC10-C48E-4CBF-9D18-EB0E35FE4C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D5FC10-C48E-4CBF-9D18-EB0E35FE4C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D5FC10-C48E-4CBF-9D18-EB0E35FE4C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D5FC10-C48E-4CBF-9D18-EB0E35FE4C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFC54B5-3EEB-40BC-BFEF-F5ACC8A3176C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFC54B5-3EEB-40BC-BFEF-F5ACC8A3176C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFC54B5-3EEB-40BC-BFEF-F5ACC8A3176C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFC54B5-3EEB-40BC-BFEF-F5ACC8A3176C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
