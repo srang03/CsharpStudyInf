@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\bin\Debug\Dori30_Lambda.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\bin\Debug\Dori30_Lambda.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\bin\Debug\Dori30_Lambda.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\obj\Debug\Dori30_Lambda.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\obj\Debug\Dori30_Lambda.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\obj\Debug\Dori30_Lambda.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\obj\Debug\Dori30_Lambda.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\obj\Debug\Dori30_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\obj\Debug\Dori30_Lambda.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori30_Lambda\obj\Debug\Dori30_Lambda.pdb
