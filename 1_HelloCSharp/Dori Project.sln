@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori29_UserControl", "Dori2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori30_Lambda", "..\Dori30_Lambda\Dori30_Lambda.csproj", "{56ACE3B4-2E8A-4094-8C65-D2E1F694CE90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori31_LINQ", "..\Dori31_LINQ\Dori31_LINQ.csproj", "{AA56B55F-2468-4EC7-8B2E-0D3A4A68A852}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -253,6 +255,10 @@ Global
 		{56ACE3B4-2E8A-4094-8C65-D2E1F694CE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56ACE3B4-2E8A-4094-8C65-D2E1F694CE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56ACE3B4-2E8A-4094-8C65-D2E1F694CE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA56B55F-2468-4EC7-8B2E-0D3A4A68A852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA56B55F-2468-4EC7-8B2E-0D3A4A68A852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA56B55F-2468-4EC7-8B2E-0D3A4A68A852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA56B55F-2468-4EC7-8B2E-0D3A4A68A852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

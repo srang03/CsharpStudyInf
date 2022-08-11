@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\bin\Debug\Dori31_LINQ.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\bin\Debug\Dori31_LINQ.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\bin\Debug\Dori31_LINQ.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\obj\Debug\Dori31_LINQ.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\obj\Debug\Dori31_LINQ.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\obj\Debug\Dori31_LINQ.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\obj\Debug\Dori31_LINQ.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\obj\Debug\Dori31_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\obj\Debug\Dori31_LINQ.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori31_LINQ\obj\Debug\Dori31_LINQ.pdb

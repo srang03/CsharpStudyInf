@@ -1,0 +1,11 @@
+﻿링큐(LINQ)
+
+LINQ(Language Integrated Query)로 질의어에 해당한다
+Data Source(Table, List)에서 필요한 Data를 검색하는 구문
+LINQ는 변수 형태로 지정된다.
+from, where, orderby, select 절로 구성되어 있다.
+
+from : Data를 검색할 범위 // from list in ClassList
+where : Data를 검색할 조건 // where list.Age > 20
+orderby : 검색한 Data의 정력 orderbyy a.Age
+select : 검색한 데이터를 추출 // select a
