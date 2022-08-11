@@ -1,0 +1,13 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\bin\Debug\Dori50_FrameModeling.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\bin\Debug\Dori50_FrameModeling.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\bin\Debug\Dori50_FrameModeling.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.ucScreen2.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.ucScreen3.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori50_FrameModeling\obj\Debug\Dori50_FrameModeling.UserControl1.resources
