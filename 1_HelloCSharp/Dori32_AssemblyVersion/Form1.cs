@@ -41,8 +41,8 @@ namespace Dori32_AssemblyVersion
             dtBuildDate.AddSeconds(iSeconds * 2);
 
             // 시차 조정
-            
 
+            return dtBuildDate;
         }
     }
 }
