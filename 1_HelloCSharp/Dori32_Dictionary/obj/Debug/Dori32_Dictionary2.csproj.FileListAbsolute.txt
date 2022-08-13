@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\bin\Debug\Dori32_Dictionary2.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\bin\Debug\Dori32_Dictionary2.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\bin\Debug\Dori32_Dictionary2.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.pdb

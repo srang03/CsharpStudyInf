@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\bin\Debug\Dori32_AssemblyVersion.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\bin\Debug\Dori32_AssemblyVersion.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\bin\Debug\Dori32_AssemblyVersion.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\obj\Debug\Dori32_AssemblyVersion.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\obj\Debug\Dori32_AssemblyVersion.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\obj\Debug\Dori32_AssemblyVersion.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\obj\Debug\Dori32_AssemblyVersion.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\obj\Debug\Dori32_AssemblyVersion.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\obj\Debug\Dori32_AssemblyVersion.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_AssemblyVersion\obj\Debug\Dori32_AssemblyVersion.csprojAssemblyReference.cache
