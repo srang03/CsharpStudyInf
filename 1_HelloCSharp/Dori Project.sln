@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori32_Dictionary2", "Dori3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori33_DynamicLayout", "..\Dori33_DynamicLayout\Dori33_DynamicLayout.csproj", "{FB09C6A4-00E0-4651-8E9F-FC1EAB38A3B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori34_LayoutEvent", "..\Dori34_LayoutEvent\Dori34_LayoutEvent.csproj", "{AE8400F8-DC0D-40DF-9C43-BEFD6D8B6421}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -289,6 +291,10 @@ Global
 		{FB09C6A4-00E0-4651-8E9F-FC1EAB38A3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB09C6A4-00E0-4651-8E9F-FC1EAB38A3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB09C6A4-00E0-4651-8E9F-FC1EAB38A3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8400F8-DC0D-40DF-9C43-BEFD6D8B6421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8400F8-DC0D-40DF-9C43-BEFD6D8B6421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8400F8-DC0D-40DF-9C43-BEFD6D8B6421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8400F8-DC0D-40DF-9C43-BEFD6D8B6421}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
