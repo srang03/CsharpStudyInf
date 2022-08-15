@@ -52,6 +52,7 @@
             this.lbl_text.TabIndex = 0;
             this.lbl_text.Text = "label1";
             this.lbl_text.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lbl_text.DoubleClick += new System.EventHandler(this.lbl_text_DoubleClick);
             // 
             // ucPanel
             // 

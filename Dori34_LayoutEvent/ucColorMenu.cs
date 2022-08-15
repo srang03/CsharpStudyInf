@@ -10,9 +10,22 @@ using System.Windows.Forms;
 
 namespace Dori34_LayoutEvent
 {
-    // 1. 
+
+
     public partial class ucColorMenu : UserControl
     {
+        // 1-1. delegate 생성
+        public delegate void delColorSender(object sender, Color color);
+        
+        // 1-2. event 생성
+        public event delColorSender OnColorSend;
+
+        // 2. 기본 Event Handeler
+        public event EventHandler OnColorEventHandler;
+
+        // 3. Generic 형태의 delegate 사용
+        public Action<Button, Color> OnColorAction;
+
         public ucColorMenu()
         {
             InitializeComponent();
@@ -42,6 +55,8 @@ namespace Dori34_LayoutEvent
                 obtn.Click += Obtn_Click;
 
                 this.flowLayoutPanel1.Controls.Add(obtn);
+                
+
             }
 
 
@@ -49,7 +64,57 @@ namespace Dori34_LayoutEvent
 
         private void Obtn_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            // 1.
+            // OnColorSend(sender, pColor.BackColor);
+
+            // 2.
+            // OnColorEventHandler(sender, e);
+
+            // 3.
+            OnColorAction(sender as Button, pColor.BackColor);
+        }
+
+        public string fButtonColorChange(ucPanel oPanel)
+        {
+            string strButtonName = string.Empty;
+            switch (oPanel.Name)
+            {
+                case "ucPanelTop":
+                    strButtonName = "btn_1";
+                    break;
+                case "ucPanelCetner1":
+                    strButtonName = "btn_2";
+                    break;
+                case "ucPanelCenter2":
+                    strButtonName = "btn_3";
+                    break;
+                case "ucPanelRight":
+                    strButtonName = "btn_4";
+                    break;
+            }
+            strButtonName = fBtnSearch(strButtonName, oPanel.BackColor, oPanel.Name);
+            return strButtonName;
+
+        }
+
+        private string fBtnSearch(string strButtonName, Color color, string strPanelName)
+        {
+            string strResult = string.Empty;
+            foreach(var item in this.flowLayoutPanel1.Controls)
+            {
+                if(item is Button)
+                {
+                    Button obtn = item as Button;
+
+                    if(obtn.Name == strButtonName)
+                    {
+                        obtn.BackColor = color;
+                        strResult =  $"[Panel] 버튼 : {obtn.Text}, 적용 : {strPanelName}, 색상 : {color.ToString()}";
+                        break;
+                    }
+                }
+            }
+            return strResult;
         }
     }
 }
