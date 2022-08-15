@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\bin\Debug\Dori35_Coding.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\bin\Debug\Dori35_Coding.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\bin\Debug\Dori35_Coding.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\obj\Debug\Dori35_Coding.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\obj\Debug\Dor35_Coding.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\obj\Debug\Dori35_Coding.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\obj\Debug\Dori35_Coding.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\obj\Debug\Dori35_Coding.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\obj\Debug\Dori35_Coding.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dor35_Coding\obj\Debug\Dori35_Coding.pdb
