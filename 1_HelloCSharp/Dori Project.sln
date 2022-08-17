@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1927
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_HelloCSharp", "1_HelloCSharp.csproj", "{0F1797BA-3DF9-4E34-BB40-05C926F8CBFE}"
 EndProject
@@ -102,6 +102,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori34_LayoutEvent", "..\Dori34_LayoutEvent\Dori34_LayoutEvent.csproj", "{AE8400F8-DC0D-40DF-9C43-BEFD6D8B6421}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori35_Coding", "..\Dor35_Coding\Dori35_Coding.csproj", "{B8EC1703-6912-4EC5-AF6B-0A745394718E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori36_LinkedList", "..\Dori36_LinkedList\Dori36_LinkedList.csproj", "{7B53964A-6068-4109-B4B7-F77FFF121ECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -301,6 +303,10 @@ Global
 		{B8EC1703-6912-4EC5-AF6B-0A745394718E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8EC1703-6912-4EC5-AF6B-0A745394718E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8EC1703-6912-4EC5-AF6B-0A745394718E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B53964A-6068-4109-B4B7-F77FFF121ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B53964A-6068-4109-B4B7-F77FFF121ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B53964A-6068-4109-B4B7-F77FFF121ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B53964A-6068-4109-B4B7-F77FFF121ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
