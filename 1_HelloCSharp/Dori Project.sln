@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori36_LinkedList", "..\Dor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori37_RecursionFunction", "..\Dori37_RecursionFunction\Dori37_RecursionFunction.csproj", "{4EF2D43B-B397-4A04-B547-92864FA2050B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate Explained", "..\Delegate Explained\Delegate Explained.csproj", "{3D1FA71E-EDB6-4A9B-B607-7F530FE8906A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -313,6 +315,10 @@ Global
 		{4EF2D43B-B397-4A04-B547-92864FA2050B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EF2D43B-B397-4A04-B547-92864FA2050B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EF2D43B-B397-4A04-B547-92864FA2050B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1FA71E-EDB6-4A9B-B607-7F530FE8906A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1FA71E-EDB6-4A9B-B607-7F530FE8906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1FA71E-EDB6-4A9B-B607-7F530FE8906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1FA71E-EDB6-4A9B-B607-7F530FE8906A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

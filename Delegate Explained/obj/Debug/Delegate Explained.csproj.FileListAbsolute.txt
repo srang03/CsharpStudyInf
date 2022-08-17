@@ -1,0 +1,8 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Delegate Explained\bin\Debug\Delegate Explained.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Delegate Explained\bin\Debug\Delegate Explained.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Delegate Explained\bin\Debug\Delegate Explained.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Delegate Explained\obj\Debug\Delegate Explained.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Delegate Explained\obj\Debug\Delegate Explained.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Delegate Explained\obj\Debug\Delegate Explained.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Delegate Explained\obj\Debug\Delegate Explained.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Delegate Explained\obj\Debug\Delegate Explained.pdb
