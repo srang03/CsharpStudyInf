@@ -18,3 +18,4 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_whil
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori10_while\obj\Debug\Dori10_while.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\bin\Debug\Dori41_MenuControl.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\bin\Debug\Dori41_MenuControl.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\bin\Debug\Dori41_MenuControl.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\obj\Debug\Dori41_MenuControl.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\obj\Debug\Dori41_MenuControl.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\obj\Debug\Dori41_MenuControl.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\obj\Debug\Dori41_MenuControl.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\obj\Debug\Dori41_MenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\obj\Debug\Dori41_MenuControl.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori41_MenuControl\obj\Debug\Dori41_MenuControl.pdb

@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Do
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\bin\Debug\Dori37_RecursionFunction.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\bin\Debug\Dori37_RecursionFunction.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\bin\Debug\Dori37_RecursionFunction.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori37_RecursionFunction\obj\Debug\Dori37_RecursionFunction.pdb

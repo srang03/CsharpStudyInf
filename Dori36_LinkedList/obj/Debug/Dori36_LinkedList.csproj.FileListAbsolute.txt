@@ -9,3 +9,13 @@ C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_Li
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.exe
 C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\bin\Debug\Dori36_LinkedList.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\bin\Debug\Dori36_LinkedList.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\bin\Debug\Dori36_LinkedList.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.Form1.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori36_LinkedList\obj\Debug\Dori36_LinkedList.pdb

@@ -18,3 +18,4 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori0
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori08_Conditional\obj\Debug\Dori08_Conditional.csprojAssemblyReference.cache
