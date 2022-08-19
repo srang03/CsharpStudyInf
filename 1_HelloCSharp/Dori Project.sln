@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori39_User32.dll", "..\Dor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori41_MenuControl", "..\Dori41_MenuControl\Dori41_MenuControl.csproj", "{A30DB885-EA48-4BD4-9E14-3CB20596F65A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori42_DetailofList", "..\Dori42_DetailofList\Dori42_DetailofList.csproj", "{3B05AA7B-47E5-4C42-8EC2-38B8BB3DA9EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +341,10 @@ Global
 		{A30DB885-EA48-4BD4-9E14-3CB20596F65A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A30DB885-EA48-4BD4-9E14-3CB20596F65A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A30DB885-EA48-4BD4-9E14-3CB20596F65A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B05AA7B-47E5-4C42-8EC2-38B8BB3DA9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B05AA7B-47E5-4C42-8EC2-38B8BB3DA9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B05AA7B-47E5-4C42-8EC2-38B8BB3DA9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B05AA7B-47E5-4C42-8EC2-38B8BB3DA9EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -398,6 +404,7 @@ Global
 		{1DB96F49-0D83-4FD3-A5D2-A6CC6AC79940} = {9FF6FF00-830B-46D2-A43D-3105D455344F}
 		{99AD0BC6-39FB-497C-8A49-D41C4B636F14} = {9FF6FF00-830B-46D2-A43D-3105D455344F}
 		{A30DB885-EA48-4BD4-9E14-3CB20596F65A} = {9FF6FF00-830B-46D2-A43D-3105D455344F}
+		{3B05AA7B-47E5-4C42-8EC2-38B8BB3DA9EA} = {9FF6FF00-830B-46D2-A43D-3105D455344F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8F0DB15-EDE2-4A62-969C-432D16FD19A8}
