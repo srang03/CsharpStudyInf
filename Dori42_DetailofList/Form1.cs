@@ -104,6 +104,7 @@ namespace Dori42_DetailofList
             int iListCapacity = oList.Capacity;
             string strListData = string.Join(", ", oList);
 
+
             StringBuilder sb = new StringBuilder();
             sb.Append($"Count : {iListCount}{Environment.NewLine}");
             sb.Append($"Capacity : {iListCapacity}{Environment.NewLine}");
