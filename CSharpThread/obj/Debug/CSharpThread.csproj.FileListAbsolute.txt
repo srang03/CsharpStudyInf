@@ -1,0 +1,9 @@
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\bin\Debug\CSharpThread.exe.config
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\bin\Debug\CSharpThread.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\bin\Debug\CSharpThread.pdb
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\obj\Debug\CSharpThread.csprojAssemblyReference.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\obj\Debug\CSharpThread.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\obj\Debug\CSharpThread.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\obj\Debug\CSharpThread.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\obj\Debug\CSharpThread.exe
+C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\CSharpThread\obj\Debug\CSharpThread.pdb

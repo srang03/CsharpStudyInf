@@ -123,6 +123,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Thread", "Thread", "{F3FBD1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dori26_ThreadReview0826", "..\Dori26_ThreadReview0826\Dori26_ThreadReview0826.csproj", "{7678ADA9-0201-4A38-99BF-552EEDEA736D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpThread", "CSharpThread\CSharpThread.csproj", "{7DEAFDC4-E288-4190-A77F-8D9E24A9ECC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -353,6 +355,10 @@ Global
 		{7678ADA9-0201-4A38-99BF-552EEDEA736D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7678ADA9-0201-4A38-99BF-552EEDEA736D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7678ADA9-0201-4A38-99BF-552EEDEA736D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DEAFDC4-E288-4190-A77F-8D9E24A9ECC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEAFDC4-E288-4190-A77F-8D9E24A9ECC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEAFDC4-E288-4190-A77F-8D9E24A9ECC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEAFDC4-E288-4190-A77F-8D9E24A9ECC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -415,6 +421,7 @@ Global
 		{3B05AA7B-47E5-4C42-8EC2-38B8BB3DA9EA} = {9FF6FF00-830B-46D2-A43D-3105D455344F}
 		{F3FBD166-A88D-4FFF-BD53-2F7BD012C14E} = {D7615A91-DFA4-4107-8188-72C6170484C1}
 		{7678ADA9-0201-4A38-99BF-552EEDEA736D} = {D7615A91-DFA4-4107-8188-72C6170484C1}
+		{7DEAFDC4-E288-4190-A77F-8D9E24A9ECC4} = {F3FBD166-A88D-4FFF-BD53-2F7BD012C14E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8F0DB15-EDE2-4A62-969C-432D16FD19A8}
