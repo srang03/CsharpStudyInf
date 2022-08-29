@@ -1,0 +1,12 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\bin\Debug\CSharpAsyncEvent.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\bin\Debug\CSharpAsyncEvent.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\bin\Debug\CSharpAsyncEvent.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.Form2.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpAsyncEvent\obj\Debug\CSharpAsyncEvent.pdb
