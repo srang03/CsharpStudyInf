@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\bin\Debug\03DelegateEvent.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\bin\Debug\03DelegateEvent.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\bin\Debug\03DelegateEvent.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\obj\Debug\03DelegateEvent.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\obj\Debug\03DelegateEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\obj\Debug\_03DelegateEvent.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\obj\Debug\_03DelegateEvent.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\obj\Debug\03DelegateEvent.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\obj\Debug\03DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\obj\Debug\03DelegateEvent.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\03DelegateEvent\obj\Debug\03DelegateEvent.pdb
