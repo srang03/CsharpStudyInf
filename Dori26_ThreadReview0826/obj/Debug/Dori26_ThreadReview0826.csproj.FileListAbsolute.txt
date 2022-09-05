@@ -9,3 +9,15 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\bin\Debug\Dori26_ThreadReview0826.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\bin\Debug\Dori26_ThreadReview0826.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\bin\Debug\Dori26_ThreadReview0826.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.Player.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori26_ThreadReview0826\obj\Debug\Dori26_ThreadReview0826.pdb

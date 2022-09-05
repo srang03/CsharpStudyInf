@@ -8,3 +8,14 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\bi
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\bin\Debug\Dori32_Dictionary2.pdb
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\bin\Debug\Dori32_Dictionary2.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\bin\Debug\Dori32_Dictionary2.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\bin\Debug\Dori32_Dictionary2.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori32_Dictionary\obj\Debug\Dori32_Dictionary2.pdb

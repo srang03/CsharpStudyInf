@@ -8,3 +8,14 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\bin\Debug\Dori28_Exception2.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\bin\Debug\Dori28_Exception2.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\bin\Debug\Dori28_Exception2.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori28_Exception2\obj\Debug\Dori28_Exception2.pdb

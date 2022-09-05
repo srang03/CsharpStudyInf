@@ -8,3 +8,14 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\bin\Debug\Dori39_User32.dll.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\bin\Debug\Dori39_User32.dll.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\bin\Debug\Dori39_User32.dll.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori39_User32.dll\obj\Debug\Dori39_User32.dll.pdb

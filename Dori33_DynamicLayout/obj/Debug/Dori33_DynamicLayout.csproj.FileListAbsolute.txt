@@ -9,3 +9,15 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dor
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.pdb
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.UT.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\bin\Debug\Dori33_DynamicLayout.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\bin\Debug\Dori33_DynamicLayout.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\bin\Debug\Dori33_DynamicLayout.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.UT.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori33_DynamicLayout\obj\Debug\Dori33_DynamicLayout.pdb

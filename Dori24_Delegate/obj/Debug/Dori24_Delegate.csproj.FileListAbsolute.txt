@@ -8,3 +8,14 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_D
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\bin\Debug\Dori24_Delegate.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\bin\Debug\Dori24_Delegate.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\bin\Debug\Dori24_Delegate.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori24_Delegate\obj\Debug\Dori24_Delegate.pdb

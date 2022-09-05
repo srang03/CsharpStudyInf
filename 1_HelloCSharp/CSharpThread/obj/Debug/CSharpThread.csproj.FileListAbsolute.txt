@@ -4,3 +4,11 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\CSharpThread\bin\Deb
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\CSharpThread\obj\Debug\CSharpThread.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\CSharpThread\obj\Debug\CSharpThread.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\CSharpThread\obj\Debug\CSharpThread.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\CSharpThread\bin\Debug\CSharpThread.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\CSharpThread\bin\Debug\CSharpThread.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\CSharpThread\bin\Debug\CSharpThread.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\CSharpThread\obj\Debug\CSharpThread.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\CSharpThread\obj\Debug\CSharpThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\CSharpThread\obj\Debug\CSharpThread.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\CSharpThread\obj\Debug\CSharpThread.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\CSharpThread\obj\Debug\CSharpThread.pdb

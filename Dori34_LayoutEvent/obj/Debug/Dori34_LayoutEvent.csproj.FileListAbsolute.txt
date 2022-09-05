@@ -10,3 +10,16 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori3
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.pdb
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.ucPanel.resources
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.ucColorMenu.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\bin\Debug\Dori34_LayoutEvent.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\bin\Debug\Dori34_LayoutEvent.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\bin\Debug\Dori34_LayoutEvent.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.ucColorMenu.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.ucPanel.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori34_LayoutEvent\obj\Debug\Dori34_LayoutEvent.pdb

@@ -9,3 +9,12 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.csprojAssemblyReference.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.frmPizza.resources
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.frmPizza.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Dori25_Delegate2\obj\Debug\Dori25_Delegate2.pdb

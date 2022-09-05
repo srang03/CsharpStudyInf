@@ -7,3 +7,13 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\bin\Debug\Dori0_Start.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\bin\Debug\Dori0_Start.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\bin\Debug\Dori0_Start.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori0_Start\obj\Debug\Dori0_Start.pdb

@@ -8,3 +8,14 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\bin\Debug\Dori38_Lock.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\bin\Debug\Dori38_Lock.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\bin\Debug\Dori38_Lock.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\Dori38_Lock\obj\Debug\Dori38_Lock.pdb
