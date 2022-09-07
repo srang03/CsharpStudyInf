@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\bin\Debug\AsyncAwaitCSharp.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\bin\Debug\AsyncAwaitCSharp.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\bin\Debug\AsyncAwaitCSharp.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\obj\Debug\AsyncAwaitCSharp.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\obj\Debug\AsyncAwaitCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\obj\Debug\AsyncAwaitCSharp.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\obj\Debug\AsyncAwaitCSharp.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\obj\Debug\AsyncAwaitCSharp.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\obj\Debug\AsyncAwaitCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\obj\Debug\AsyncAwaitCSharp.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\AsyncAwaitCSharp\obj\Debug\AsyncAwaitCSharp.pdb

@@ -16,7 +16,7 @@ namespace Dori25_Delegate2
         public delegate int delPizzaComplete(string strResult, int iTime); // Delegate 선언
         public event delPizzaComplete eventDelPizzaComplete; // 이벤트 선언
         private bool bOrderComplete;
-        public bool OrderComplete { get { return bOrderComplete; } private set; }
+        public bool OrderComplete { get { return bOrderComplete; } }
         public frmPizza()
         {
             InitializeComponent();

@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\bin\Debug\LogProject.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\bin\Debug\LogProject.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\bin\Debug\LogProject.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\obj\Debug\LogProject.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\obj\Debug\LogProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\obj\Debug\LogProject.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\obj\Debug\LogProject.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\obj\Debug\LogProject.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\obj\Debug\LogProject.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\obj\Debug\LogProject.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\LogProject\obj\Debug\LogProject.pdb

@@ -8,3 +8,14 @@ C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadPro
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.csproj.CoreCompileInputs.cache
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.exe
 C:\Users\Ian\Desktop\ian\Study\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\bin\Debug\ThreadProgress.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\bin\Debug\ThreadProgress.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\bin\Debug\ThreadProgress.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\ThreadProgress\obj\Debug\ThreadProgress.pdb

@@ -1,0 +1,8 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpMultiThreading\bin\Debug\CSharpMultiThreading.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpMultiThreading\bin\Debug\CSharpMultiThreading.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpMultiThreading\bin\Debug\CSharpMultiThreading.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpMultiThreading\obj\Debug\CSharpMultiThreading.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpMultiThreading\obj\Debug\CSharpMultiThreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpMultiThreading\obj\Debug\CSharpMultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpMultiThreading\obj\Debug\CSharpMultiThreading.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\CSharpMultiThreading\obj\Debug\CSharpMultiThreading.pdb
