@@ -1,0 +1,12 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\bin\Debug\DisposeAndNullAndThread.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\bin\Debug\DisposeAndNullAndThread.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\bin\Debug\DisposeAndNullAndThread.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.ConnectWorkUserControl.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DisposeAndNullAndThread\obj\Debug\DisposeAndNullAndThread.pdb

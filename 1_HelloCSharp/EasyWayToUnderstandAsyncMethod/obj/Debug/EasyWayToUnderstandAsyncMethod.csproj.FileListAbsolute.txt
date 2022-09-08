@@ -1,0 +1,8 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\EasyWayToUnderstandAsyncMethod\bin\Debug\EasyWayToUnderstandAsyncMethod.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\EasyWayToUnderstandAsyncMethod\bin\Debug\EasyWayToUnderstandAsyncMethod.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\EasyWayToUnderstandAsyncMethod\bin\Debug\EasyWayToUnderstandAsyncMethod.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\EasyWayToUnderstandAsyncMethod\obj\Debug\EasyWayToUnderstandAsyncMethod.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\EasyWayToUnderstandAsyncMethod\obj\Debug\EasyWayToUnderstandAsyncMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\EasyWayToUnderstandAsyncMethod\obj\Debug\EasyWayToUnderstandAsyncMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\EasyWayToUnderstandAsyncMethod\obj\Debug\EasyWayToUnderstandAsyncMethod.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\EasyWayToUnderstandAsyncMethod\obj\Debug\EasyWayToUnderstandAsyncMethod.pdb

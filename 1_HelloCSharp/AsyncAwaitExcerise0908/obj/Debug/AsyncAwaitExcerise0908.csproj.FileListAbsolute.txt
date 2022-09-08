@@ -1,0 +1,12 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\bin\Debug\AsyncAwaitExcerise0908.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\bin\Debug\AsyncAwaitExcerise0908.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\bin\Debug\AsyncAwaitExcerise0908.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.ListUp.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwaitExcerise0908\obj\Debug\AsyncAwaitExcerise0908.pdb
