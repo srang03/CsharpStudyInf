@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitExcerise0908", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposeAndNullAndThread", "DisposeAndNullAndThread\DisposeAndNullAndThread.csproj", "{DEC39A0E-5CC6-4580-B06B-5BDB4B0C9A6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait220915", "AsyncAwait220915\AsyncAwait220915.csproj", "{93FA958A-E0CE-436B-9131-AEAFEF369BEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -447,6 +449,10 @@ Global
 		{DEC39A0E-5CC6-4580-B06B-5BDB4B0C9A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEC39A0E-5CC6-4580-B06B-5BDB4B0C9A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEC39A0E-5CC6-4580-B06B-5BDB4B0C9A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FA958A-E0CE-436B-9131-AEAFEF369BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FA958A-E0CE-436B-9131-AEAFEF369BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FA958A-E0CE-436B-9131-AEAFEF369BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FA958A-E0CE-436B-9131-AEAFEF369BEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -525,6 +531,7 @@ Global
 		{459E1309-E700-4024-904C-E4AC72E89F28} = {20A04CC0-F63E-4300-BC54-78962A394ECA}
 		{CF41D214-FC44-4FDC-A9F8-586EC1E47921} = {20A04CC0-F63E-4300-BC54-78962A394ECA}
 		{DEC39A0E-5CC6-4580-B06B-5BDB4B0C9A6E} = {7E8F2357-70CE-4764-866A-04F2452E379F}
+		{93FA958A-E0CE-436B-9131-AEAFEF369BEF} = {20A04CC0-F63E-4300-BC54-78962A394ECA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8F0DB15-EDE2-4A62-969C-432D16FD19A8}
