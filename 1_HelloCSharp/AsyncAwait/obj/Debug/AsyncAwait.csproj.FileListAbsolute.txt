@@ -1,0 +1,8 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait\bin\Debug\AsyncAwait.dll.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait\bin\Debug\AsyncAwait.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait\obj\Debug\AsyncAwait.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.SuggestedBindingRedirects.cache

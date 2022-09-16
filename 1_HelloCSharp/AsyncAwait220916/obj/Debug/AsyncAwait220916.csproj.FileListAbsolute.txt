@@ -1,0 +1,8 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait220916\bin\Debug\AsyncAwait220916.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait220916\bin\Debug\AsyncAwait220916.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait220916\bin\Debug\AsyncAwait220916.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait220916\obj\Debug\AsyncAwait220916.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait220916\obj\Debug\AsyncAwait220916.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait220916\obj\Debug\AsyncAwait220916.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait220916\obj\Debug\AsyncAwait220916.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\AsyncAwait220916\obj\Debug\AsyncAwait220916.pdb

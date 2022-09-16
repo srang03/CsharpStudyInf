@@ -28,8 +28,8 @@ namespace AsyncAwait220915
 
         private async Task ReadInternalStorageAync()
         {
-            throw new NotImplementedException();
-        }
+            
+        } 
 
         private async Task ReadDeviceAsync()
         {
