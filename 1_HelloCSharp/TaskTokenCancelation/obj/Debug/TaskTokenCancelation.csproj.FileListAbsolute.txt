@@ -1,0 +1,12 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\bin\Debug\TaskTokenCancelation.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\bin\Debug\TaskTokenCancelation.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\bin\Debug\TaskTokenCancelation.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.DeviceConnection.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\TaskTokenCancelation\obj\Debug\TaskTokenCancelation.pdb
