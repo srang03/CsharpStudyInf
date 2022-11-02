@@ -179,6 +179,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatchExample", "TryCatch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTokenCancelation", "TaskTokenCancelation\TaskTokenCancelation.csproj", "{5F3288A2-62A7-4006-891E-FBDBE61C0618}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontComboBox", "FontComboBox\FontComboBox.csproj", "{29D379E0-1AC1-4973-AA73-7F83C91D462C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -493,6 +495,10 @@ Global
 		{5F3288A2-62A7-4006-891E-FBDBE61C0618}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3288A2-62A7-4006-891E-FBDBE61C0618}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3288A2-62A7-4006-891E-FBDBE61C0618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D379E0-1AC1-4973-AA73-7F83C91D462C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D379E0-1AC1-4973-AA73-7F83C91D462C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D379E0-1AC1-4973-AA73-7F83C91D462C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D379E0-1AC1-4973-AA73-7F83C91D462C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -578,6 +584,7 @@ Global
 		{43622F5E-FFA5-49CD-A02F-9F17F95CD500} = {7E8F2357-70CE-4764-866A-04F2452E379F}
 		{D446C956-4861-45D3-B320-075E9FE52CCA} = {7E8F2357-70CE-4764-866A-04F2452E379F}
 		{5F3288A2-62A7-4006-891E-FBDBE61C0618} = {7E8F2357-70CE-4764-866A-04F2452E379F}
+		{29D379E0-1AC1-4973-AA73-7F83C91D462C} = {7E8F2357-70CE-4764-866A-04F2452E379F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8F0DB15-EDE2-4A62-969C-432D16FD19A8}
