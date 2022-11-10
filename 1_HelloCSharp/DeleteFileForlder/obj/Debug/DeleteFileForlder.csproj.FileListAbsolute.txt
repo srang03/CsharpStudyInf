@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\bin\Debug\DeleteFileForlder.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\bin\Debug\DeleteFileForlder.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\bin\Debug\DeleteFileForlder.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\obj\Debug\DeleteFileForlder.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\obj\Debug\DeleteFileForlder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\obj\Debug\DeleteFileForlder.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\obj\Debug\DeleteFileForlder.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\obj\Debug\DeleteFileForlder.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\obj\Debug\DeleteFileForlder.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\obj\Debug\DeleteFileForlder.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\DeleteFileForlder\obj\Debug\DeleteFileForlder.pdb

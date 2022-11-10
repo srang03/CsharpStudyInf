@@ -25,8 +25,11 @@ namespace FontComboBox
             foreach (FontFamily font in System.Drawing.FontFamily.Families)
             {
                 fonts.Add(font.Name);
+                
                 this.listBox1.Items.Add(font.Name);
             }
+            string temp = "20221104165337_OPPO R11t\0";
+            
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -36,6 +39,8 @@ namespace FontComboBox
             this.label1.Text = fontName;
             this.label1.Font = f;
         }
+
+        
 
     }
 }
