@@ -1,0 +1,16 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\bin\Debug\PanelUITest.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\bin\Debug\PanelUITest.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\bin\Debug\PanelUITest.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.Example.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\bin\Debug\iMobileDevice-net.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\bin\Debug\iMobileDevice-net.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\bin\Debug\iMobileDevice-net.xml
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PanelUITest\obj\Debug\PanelUITest.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\bin\Debug\iTextPdf Example.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\bin\Debug\iTextPdf Example.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\bin\Debug\iTextPdf Example.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\bin\Debug\iTextSharp.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf Example.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf_Example.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf_Example.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf Example.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf Example.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf Example.csproj.CopyComplete
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf Example.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\iTextPdf Example\obj\Debug\iTextPdf Example.pdb
