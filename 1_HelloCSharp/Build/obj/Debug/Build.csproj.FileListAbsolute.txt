@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\bin\Debug\Build.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\bin\Debug\Build.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\bin\Debug\Build.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\obj\Debug\Build.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\obj\Debug\Build.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\obj\Debug\Build.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\obj\Debug\Build.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\obj\Debug\Build.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\obj\Debug\Build.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\obj\Debug\Build.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\Build\obj\Debug\Build.pdb

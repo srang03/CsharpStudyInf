@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\bin\Debug\FileWriteAndOverwrite.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\bin\Debug\FileWriteAndOverwrite.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\bin\Debug\FileWriteAndOverwrite.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\obj\Debug\FileWriteAndOverwrite.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\obj\Debug\FileWriteAndOverwrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\obj\Debug\FileWriteAndOverwrite.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\obj\Debug\FileWriteAndOverwrite.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\obj\Debug\FileWriteAndOverwrite.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\obj\Debug\FileWriteAndOverwrite.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\obj\Debug\FileWriteAndOverwrite.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\FileWriteAndOverwrite\obj\Debug\FileWriteAndOverwrite.pdb

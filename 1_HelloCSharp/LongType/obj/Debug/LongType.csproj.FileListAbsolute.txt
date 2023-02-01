@@ -1,0 +1,11 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\bin\Debug\LongType.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\bin\Debug\LongType.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\bin\Debug\LongType.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\obj\Debug\LongType.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\obj\Debug\LongType.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\obj\Debug\LongType.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\obj\Debug\LongType.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\obj\Debug\LongType.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\obj\Debug\LongType.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\obj\Debug\LongType.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\LongType\obj\Debug\LongType.pdb

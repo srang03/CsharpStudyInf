@@ -1,0 +1,13 @@
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\bin\Debug\PDFCreate.exe.config
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\bin\Debug\PDFCreate.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\bin\Debug\PDFCreate.pdb
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\bin\Debug\iTextSharp.dll
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.csproj.CopyComplete
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.exe
+C:\Users\Ian\Desktop\ian\C#\CsharpStudyInf\1_HelloCSharp\PDFCreate\obj\Debug\PDFCreate.pdb
